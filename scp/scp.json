@@ -1,0 +1,866 @@
+[
+  {
+    "title": "SCP-001",
+    "class": "N/A",
+    "description": "WARNING: In order to prevent knowledge of SCP-001 from being leaked, several/no false SCP-001 files have been created alongside the true file/files. All files concerning the nature of SCP-001, including the decoy/decoys, are protected by a memetic kill agent designed to immediately cause cardiac arrest in any nonauthorized personnel attempting to access the file. Revealing the true nature/natures of SCP-001 to the general public is cause for execution, except required under ████-███-██████.",
+    "link": "http://scp-wiki.wikidot.com/scp-001"
+  },
+  {
+    "title": "SCP-002",
+    "class": "Euclid",
+    "description": "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
+    "link": "http://scp-wiki.wikidot.com/scp-002"
+  },
+  {
+    "title": "SCP-003",
+    "class": "Euclid",
+    "description": "SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2. SCP-003-1 appears to be composed of chitin, hair, and nails of unknown biology, arranged in a configuration similar to that of a computer motherboard. It is considered probable that SCP-003-2 was created for the purpose of containing SCP-003-1. Partially interpreted data recovered from SCP-003-2 may refer to a past and/or potential future LK-class restructuring event caused by SCP-003-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-003"
+  },
+  {
+    "title": "SCP-004",
+    "class": "Euclid",
+    "description": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
+    "link": "http://scp-wiki.wikidot.com/scp-004"
+  },
+  {
+    "title": "SCP-005",
+    "class": "Safe",
+    "description": "SCP-005 resembles an ornate key with the ability to open any and all forms of lock, be they mechanical or digital, with relative ease.",
+    "link": "http://scp-wiki.wikidot.com/scp-005"
+  },
+  {
+    "title": "SCP-006",
+    "class": "Safe",
+    "description": "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control. The liquid emitted from the spring has been chemically identified as simple mineral water in 1902, but has the unusual property of \"health\".",
+    "link": "http://scp-wiki.wikidot.com/scp-006"
+  },
+  {
+    "title": "SCP-007",
+    "class": "Euclid",
+    "description": "SCP-007 is located within a cavity in the abdomen of Subject. Subject is a Caucasian male, physically approximately 25 years of age (subject claims to be 28) and 176 cm in height. Instead of normal flesh, a sphere composed of soil and water is present, though it does not actually come into contact with Subject's body at any point. The sphere appears to be, in most respects, a miniature near-duplicate of the Earth, approximately 60 cm in diameter, although continental alignment is not consistent with that of any alignment known in Earth's history.",
+    "link": "http://scp-wiki.wikidot.com/scp-007"
+  },
+  {
+    "title": "SCP-008",
+    "class": "Euclid",
+    "description": "SCP-008 is a complex prion, samples of which are stored in each of the known G2 sites. Research into SCP-008 is highly classified and primarily aimed at preventing research which may lead to the synthesis of SCP-008 in the distant future. It's 100% infectious, 100% lethal and transmissible through exposed mucous membranes and all bodily fluids. It causes Flu-like symptoms with high fever, plus severe dementia in later stages, coma onset approximately 20 hours after first symptoms appear and 12 hours after noticeable dementia. Coma onset will be considered onset of death, a period of sporadic cellular necrosis occurs which comes to resemble gangrene, etc.",
+    "link": "http://scp-wiki.wikidot.com/scp-008"
+  },
+  {
+    "title": "SCP-009",
+    "class": "Euclid",
+    "description": "SCP-009 is approximately ███ liters of a substance which superficially resembles distilled water (H2O), except with a distinct bright red hue. This red hue is discernible in all phases, and serves as the most expedient method of identifying contaminated matter before its anomalous properties manifest. The most hazardous property of SCP-009, however, is its ability to contaminate normal H2O. When in contact with any aqueous solution, SCP-009 will, through unknown mechanisms, transfer its anomalous properties to other objects and creatures. Testing has shown it capable of assimilating ice, steam, tea, fruit juice, seawater, blood, and [DATA EXPUNGED].",
+    "link": "http://scp-wiki.wikidot.com/scp-009"
+  },
+  {
+    "title": "SCP-010",
+    "class": "Safe",
+    "description": "SCP-010 consists of a series of six (6) apparently identical cast iron collars with numbered metal tags and one (1) remote control. The control is SCP-010-1. The collars are SCP-010-2 through 010-7. The collars contain intricate electronic components and are powered by small (5 mm diameter, 2 mm thick) 100 V batteries. These batteries are rechargeable. Placing the collar around the neck of a person and securing it allows one to control their every movement with the remote. It is also capable of producing an adrenal response and activating or deactivating the sympathetic nervous system.",
+    "link": "http://scp-wiki.wikidot.com/scp-010"
+  },
+  {
+    "title": "SCP-011",
+    "class": "Safe",
+    "description": "SCP-011 is a Civil War memorial statue located in Woodstock, Vermont. The statue is the image of a young male soldier holding a musket at his side, and is carved out of granite quarried within the area. Occasionally, SCP-011 has been observed lifting its musket to the sky to fire at birds which attempt to land or defecate on it.",
+    "link": "http://scp-wiki.wikidot.com/scp-011"
+  },
+  {
+    "title": "SCP-012",
+    "class": "Euclid",
+    "description": "SCP-012 was retrieved by Archaeologist K.M. Sandoval during the excavation of a northern Italian tomb destroyed in a recent storm. The object, a piece of handwritten musical score entitled \"On Mount Golgotha\", part of a larger set of sheet music, appears to be incomplete. Following initial investigations, multiple test subjects were allowed access to the score. In every case, the subjects mutilated themselves in order to use their own blood to finish the piece, resulting in subsequent symptoms of psychosis and massive trauma. Those subjects who managed to finish a section of the piece immediately committed suicide, declaring the piece to be \"impossible to complete\".",
+    "link": "http://scp-wiki.wikidot.com/scp-012"
+  },
+  {
+    "title": "SCP-013",
+    "class": "Safe",
+    "description": "SCP-013 is the collective designation of 242 cigarettes which display similar anomalies. The most common external detail between instances is the presence of the words “Blue Lady” hand-written on each cigarette in blue ink. Subjects who consume the contents of SCP-013 through inhalation will begin to perceive themselves as a specific unidentified woman.",
+    "link": "http://scp-wiki.wikidot.com/scp-013"
+  },
+  {
+    "title": "SCP-014",
+    "class": "Safe",
+    "description": "SCP-014 is a Caucasian male, appearing to be approximately 30 years of age, with black hair, brown eyes, and a somewhat round face. Records indicate his name to be Robert Chetford, confined in 1915 to the Norwich Asylum in Connecticut for delusional insanity, claiming that he had been cursed to live forever, and was slowly turning into concrete in consequence.",
+    "link": "http://scp-wiki.wikidot.com/scp-014"
+  },
+  {
+    "title": "SCP-015",
+    "class": "Euclid",
+    "description": "SCP-015 is a mass of pipes, vents, boilers and other various plumbing apparatus completely filling a warehouse in ███████. The pipes appear to grow when not under observation, attempting to connect to nearby structures via sewer systems and underground plumbing. SCP-015 reacts to tools and aggression. Any personnel acting violently, carrying tools, or attempting to damage or repair SCP-015 in any way, will trigger a reaction. Any pipes near the subject will burst, spraying on the subject for several seconds before the flow suddenly stops.",
+    "link": "http://scp-wiki.wikidot.com/scp-015"
+  },
+  {
+    "title": "SCP-016",
+    "class": "Keter",
+    "description": "SCP-016 is a blood-borne pathogen recovered from a mine worker in █████ who injured himself while working in a deep coal seam. Said wound became contaminated with coal dust from the mine, possibly infecting the worker with dormant spores. Over the next several days, SCP-016 proceeded to infect the remaining employees at the mining camp, as well as the CDC crisis team dispatched to deal with the epidemic. Foundation personnel then took over the investigation and terminated all affected personnel. Patient Zero was brought into captivity, and the mine shaft was collapsed by an explosive device.",
+    "link": "http://scp-wiki.wikidot.com/scp-016"
+  },
+  {
+    "title": "SCP-017",
+    "class": "Keter",
+    "description": "SCP-017 is a humanoid figure approximately 80 centimeters in height, anatomically similar to a small child, but with no discernible identifying features. SCP-017 seems to be composed of a shadowy, smoke-like shroud. No attempt to find any object beneath the shroud has been successful, but the possibility has not been ruled out. SCP-017's reaction to shadows cast upon it is immediate and swift. SCP-017 leaps at the object casting the shadow and completely encloses it in its shroud, whereupon it returns to its normal size, leaving no trace of the object behind.",
+    "link": "http://scp-wiki.wikidot.com/scp-017"
+  },
+  {
+    "title": "SCP-018",
+    "class": "Euclid",
+    "description": "SCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red. It is able to increase it's velocity by bouncing, allowing it to reach speeds of 100km/h.",
+    "link": "http://scp-wiki.wikidot.com/scp-018"
+  },
+  {
+    "title": "SCP-019",
+    "class": "Keter",
+    "description": "SCP-019 appears to be a very large ceramic vase, 1.8 m in diameter at the mouth and 2.4 m high. Style and decoration indicate it was created in Classical Greece, although conclusive dating is impossible, as the surface is entirely unbreakable by any known means. Periodically, entities emerge from SCP-019. Collectively, these are known as SCP-019-2. The entities vary in many aspects, but tend to be small, vaguely humanoid (though they may have animaloid features), and extremely hostile.",
+    "link": "http://scp-wiki.wikidot.com/scp-019"
+  },
+  {
+    "title": "SCP-020",
+    "class": "Keter",
+    "description": "SCP-020 is a fast-spreading fungal organism that is capable of affecting the senses and behavior of living creatures, including humans. Samples of SCP-020 exhibit an unknown effect that renders them effectively invisible to direct observation, even when under a microscope. SCP-020 is only visible to humans when viewed through photographic or video surveillance.",
+    "link": "http://scp-wiki.wikidot.com/scp-020"
+  },
+  {
+    "title": "SCP-021",
+    "class": "Safe",
+    "description": "SCP-021 takes the form of a large and elaborate tattoo of a serpentine dragon in the oriental style, covering approximately 0.8 square meters of skin. This tattoo is fully animate within the confines of its host's skin and behaves largely as a normal animal would, albeit in only two dimensions.",
+    "link": "http://scp-wiki.wikidot.com/scp-021"
+  },
+  {
+    "title": "SCP-022",
+    "class": "Euclid",
+    "description": "SCP-022 is a morgue in the basement of [REDACTED] Hospital in Great Britain. Periodically, a random drawer within the morgue will open to reveal a cadaver under a covered sheet. After approximately six minutes open, the cadaver will animate and attempt to leave the morgue. At this point, the cadaver is given the designation SCP-022-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-022"
+  },
+  {
+    "title": "SCP-023",
+    "class": "Euclid",
+    "description": "SCP-023 is a large, sexless shaggy canine (1.5 meters at the shoulder) with black fur. Any time an individual makes eye contact with SCP-023, either that person or a member of their immediate family will die exactly one (1) year after eye contact is broken.",
+    "link": "http://scp-wiki.wikidot.com/scp-023"
+  },
+  {
+    "title": "SCP-024",
+    "class": "Euclid",
+    "description": "SCP-024 is an abandoned sound stage that was once owned by █████████. Upon entering SCP-024, visitors are immediately greeted by an anonymous announcer, who communicates via intercom and is able to hear and comprehend the voices of people within SCP-024. he announcer will inform the \"contestants\" that they are about to take part in a game show in which the winners will win fabulous prizes, but will also warn that the game will be extremely hazardous, and that the losers will never leave SCP-024.",
+    "link": "http://scp-wiki.wikidot.com/scp-024"
+  },
+  {
+    "title": "SCP-025",
+    "class": "Safe",
+    "description": "SCP-025 is a wooden wardrobe measuring 0.97 m x 0.62 m x 1.95 m, full of clothing dating from a number of time periods. Articles contained within the chest, collectively named SCP-025-1, match with styles of decades from the 1920s to the present. When any item from SCP-025 is put on, the wearer is observed either to die or suffer an injury within 24 hours. The cause of death or injury in these instances is invariably linked to the aforementioned flaws in the clothing, but only ever appears to be an unrelated incident.",
+    "link": "http://scp-wiki.wikidot.com/scp-025"
+  },
+  {
+    "title": "SCP-026",
+    "class": "Euclid",
+    "description": "SCP-026 is a three (3) story public school building built in ████. A number of unconscious subjects have been found in the building, mostly of high school age, ranging from twelve to eighteen. All attempts to wake the subjects while inside the building have failed. On being removed from the grounds of SCP-026, the subjects wake abruptly. They experience a period of confusion, before dying from extremely rapid dehydration, followed by advanced decomposition.",
+    "link": "http://scp-wiki.wikidot.com/scp-026"
+  },
+  {
+    "title": "SCP-027",
+    "class": "Euclid",
+    "description": "SCP-027 appears to be a phenomenon of unknown source that seems to be tied to one human subject (currently 027-02) at a time. As host to SCP-027, subject 027-02 is constantly surrounded by swarming vermin that are drawn to his location. The subject does not appear able to assert control over these creatures in any way, and is in fact prone to occasional attacks from feral specimens. These creatures have also been known to attack personnel who approach too closely.",
+    "link": "http://scp-wiki.wikidot.com/scp-027"
+  },
+  {
+    "title": "SCP-028",
+    "class": "Safe",
+    "description": "SCP-028 is located in an abandoned storage yard outside a copper mine in northern Michigan. SCP-028 has no detectable physical presence of any kind, but its effect occurs in a 2.1 meter (7 foot) cube around what is commonly held as the \"center\" of SCP-028. Subjects \"entering\" SCP-028 are, within three (3) to six (6) seconds, struck by total and complete knowledge of a subject.",
+    "link": "http://scp-wiki.wikidot.com/scp-028"
+  },
+  {
+    "title": "SCP-029",
+    "class": "Keter",
+    "description": "SCP-029 appears to be a pubescent female of Asiatic-Indian descent. SCP-029 has severe homicidal tendencies and has displayed a remarkable ability to use any item as a weapon. However, she has a severe compulsion against shedding blood, preferring instead to strangle her victims. In addition, any males who come within the presence of SCP-029, an area defined by her current perception, find themselves pliant to her will. Such males become willing to kill or even die for SCP-029.",
+    "link": "http://scp-wiki.wikidot.com/scp-029"
+  },
+  {
+    "title": "SCP-030",
+    "class": "Safe",
+    "description": "SCP-030 appears as a hairless, genderless, grey-toned human 71 centimeters (28 inches) in height and weighing 12.70 kilograms (two British stone in antiquated measure). It is able to converse, read and write in Ancient Greek, Latin, Italian, English, Spanish and Portuguese as well as two (2) additional languages that have not yet been identified despite SCP-030's insistence that they should be \"common knowledge\". SCP-030 has also demonstrated knowledge of physics, chemistry, astronomy, mathematics and horticulture roughly equivalent to that of a 17th-century CE academic. SCP-030 remains active while a 15-lumen source of light or greater is within 1.5 meters (5 feet). In the absence of light, SCP-030 becomes inert, apparently losing consciousness and showing no outward signs of life.",
+    "link": "http://scp-wiki.wikidot.com/scp-030"
+  },
+  {
+    "title": "SCP-031",
+    "class": "Euclid",
+    "description": "SCP-031 is an amorphous organism with a mass of over 7,500 kg that has infiltrated the ductwork and maintenance infrastructure of the Ryugyong Hotel, located in the city of Pyongyang, Democratic People's Republic of Korea. Tendrils emerging from SCP-031's central mass have spread through the hotel's plumbing and ductwork to all 105 floors of the building. At its peak, over 75% of the hotel's 3,000 rooms were contaminated by SCP-031.",
+    "link": "http://scp-wiki.wikidot.com/scp-031"
+  },
+  {
+    "title": "SCP-032",
+    "class": "Euclid",
+    "description": "SCP-032 is a Type-F (imperfect external resemblance, internally inconsistent) human simulacrum of currently unknown origins. It is composed of an outer shell of pigmented silicone (5.5 mm thick), and various plastic fiber polymers, with the outward appearance of a Caucasian woman nearing the third decade of life. SCP-032 possesses extreme adverse effects to any biological entity in its close vicinity not created, willfully influenced, manipulated by or similarly relating to humanity.",
+    "link": "http://scp-wiki.wikidot.com/scp-032"
+  },
+  {
+    "title": "SCP-033",
+    "class": "Euclid",
+    "description": "SCP-033 appears as a field of complex mathematical symbols ranging from simple layman-identifiable representations to those only interpretable by highly-trained mathematicians. The \"sum\" of the symbols is equal to a previously unknown integer (designated Theta Prime by Prof. Hutchinson) of intermediate value between █ and █. As all modern mathematical calculations are performed lacking the knowledge or use of SCP-033, its introduction into any system organized without it begins eroding the numerical and eventually structural integrity of said system.",
+    "link": "http://scp-wiki.wikidot.com/scp-033"
+  },
+  {
+    "title": "SCP-034",
+    "class": "Euclid",
+    "description": "SCP-034 is a primitive knife constructed out of pure obsidian. Tests reveal that SCP-034 is approximately 1000 years old. SCP-034 has the ability to allow its bearer to take on the appearance of another individual. If SCP-034 is used to cut a piece of flesh from a living individual, and that piece of flesh is placed against the skin of another individual, the second individual would take on not only the appearance, but all physical characteristics of the first individual.",
+    "link": "http://scp-wiki.wikidot.com/scp-034"
+  },
+  {
+    "title": "SCP-035",
+    "class": "Keter",
+    "description": "SCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. In these events, all existing visual records, such as photographs, video footage, even illustrations, of SCP-035 automatically change to reflect its new appearance. A highly corrosive and degenerative viscous liquid constantly seeps from the eye and mouth holes of SCP-035. Subjects within 1.5 to 2 meters (5-6 feet) of SCP-035, or in visual contact with it, experience a strong urge to put it on. When SCP-035 is placed on the face of an individual, an alternate brain wave pattern from SCP-035 overlaps that of the original host, effectively snuffing it out and causing brain death to the subject.",
+    "link": "http://scp-wiki.wikidot.com/scp-035"
+  },
+  {
+    "title": "SCP-036",
+    "class": "Safe",
+    "description": "SCP-036 includes the location, Site-22A (a small airport in the Mosul region of northern Iraq) and Site-22B (the destination of passengers boarding at Site-22A). The key components of SCP-036 are:\n- The \"Arrival flight\"\n- The \"Pilgrims\"\n- The \"Pilgrimage flight\"",
+    "link": "http://scp-wiki.wikidot.com/scp-036"
+  },
+  {
+    "title": "SCP-037",
+    "class": "Euclid",
+    "description": "SCP-037 appears to be a star approximately 5 cm (2 in) in diameter, with a luminosity of about 1*10^-12 times that of our sun and a surface temperature of about 5000 K (determined by UBVRI analysis).",
+    "link": "http://scp-wiki.wikidot.com/scp-037"
+  },
+  {
+    "title": "SCP-038",
+    "class": "Safe",
+    "description": "SCP-038 was found on an abandoned farm in █████████████, New York, in 19██. It was at first thought to be a common apple tree. However, upon closer inspection, it became apparent that SCP-038 was growing things other than apples and, in fact, other than fruit. SCP-038 has the ability to clone any object that touches its bark. Objects begin growing almost instantaneously and reach maturity within a matter of minutes.",
+    "link": "http://scp-wiki.wikidot.com/scp-038"
+  },
+  {
+    "title": "SCP-039",
+    "class": "Euclid",
+    "description": "SCP-039 consists of twenty-three (23) instances of Nasalis larvatus, or proboscis monkey, who have been subject to radical anatomical changes. The eyes and mouths of SCP-039 are absent, leaving the face bare save for the nose and its accompanying nasal passages. Instances of SCP-039 possess acute auditory and tactile sense to compensate for a lack of eyes, relying mostly on physical contact with objects to perceive them, and on loud nasal snorts as a sort of echolocation to help them navigate in their environment.",
+    "link": "http://scp-wiki.wikidot.com/scp-039"
+  },
+  {
+    "title": "SCP-040",
+    "class": "Esoteric",
+    "description": "SCP-040 is a human child capable of at-will manipulation of the physical characteristics of living organisms. Modified organisms are collectively referred to as SCP-040-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-040"
+  },
+  {
+    "title": "SCP-041",
+    "class": "Safe",
+    "description": "SCP-041 is a male human suffering from irreversible damage to his central nervous system, which is believed to have been caused by an infection of a rare strain of bacterial meningitis. Visually, SCP-041 appears to be in a persistent vegetative state. However, observers in the presence of SCP-041 begin to realize that their thoughts, along with everyone else's in about a 10-meter radius from SCP-041, are broadcast in a semi-audible fashion. Aside from being the source, SCP-041 is also capable of broadcasting his own thoughts to those present.",
+    "link": "http://scp-wiki.wikidot.com/scp-041"
+  },
+  {
+    "title": "SCP-042",
+    "class": "Safe",
+    "description": "SCP-042 is an animal believed to be a member of the genus Equus. Its coat is white in color with some small brown spotting. It stands at 183 cm (18 hands) to its withers and weighs 710 kg. SCP-042 exhibits a listless demeanor and has been unresponsive to any attempt by skilled handlers to incite activity. If allowed to do so, SCP-042 will lay down on the ground immobile, not moving to eat, drink, or relieve itself.",
+    "link": "http://scp-wiki.wikidot.com/scp-042"
+  },
+  {
+    "title": "SCP-043",
+    "class": "Safe",
+    "description": "SCP-043 appears to be a vinyl copy of \"The White Album\" by the Beatles; however, upon closer inspection, the record has no grooves. In spite of this, the record will play from start to finish regardless of the starting position of the needle.",
+    "link": "http://scp-wiki.wikidot.com/scp-043"
+  },
+  {
+    "title": "SCP-044",
+    "class": "Safe",
+    "description": "SCP-044 is a howitzer, secretly manufactured in the late stages of the Second World War by Krupp engineers, personally supervised by Albert Speer, German Minister of Armaments and War Production under Adolf Hitler. SCP-044 is unique not only because of its size (251,000 kg, or 251 metric tonnes), but also because it fires unconventional artillery using an atypical delivery method. Rather than having a breech for loading shells, the rear of the barrel is configured into a massive air-compression chamber. Any object or pile of objects that fits may be loaded into SCP-044’s muzzle to be used as ammunition.",
+    "link": "http://scp-wiki.wikidot.com/scp-044"
+  },
+  {
+    "title": "SCP-045",
+    "class": "Safe",
+    "description": "SCP-045 is an icosahedron composed of ice XII heavily occluded with planar fractures in a regular, complex pattern. SCP-045 has an average radius of 1.7 meters and density of 2.6 g/cm³, which is approximately twice that of non-anomalous ice XII.",
+    "link": "http://scp-wiki.wikidot.com/scp-045"
+  },
+  {
+    "title": "SCP-046",
+    "class": "Euclid",
+    "description": "SCP-046 is a predatory botanical mass located in southwestern Kentucky. SCP-046 is composed of two parts. SCP-046-1 is a large mass of vegetative matter, composed largely of plants indigenous to the region, including Quercus alba, Ilex aquifolium, and Lonicera sempervirens, though several offshoots composed of other plant species are also present. SCP-046-2 is the land in the immediate vicinity of SCP-046-1, extending to a roughly circular area twenty meters in radius from its base. This area is SCP-046's primary feeding area. Animals (including humans) suffering from potentially life-threatening physical injuries or diseases, or who are afflicted by psychological disorders that induce self-destructive tendencies, feel a powerful compulsion to come to SCP-046-2 and lie in a prostrate position facing SCP-046-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-046"
+  },
+  {
+    "title": "SCP-047",
+    "class": "Keter",
+    "description": "SCP-047 is a heavily rusted, breached gas cylinder made of an iron-[REDACTED] alloy. When exposed to open air, the material of the cylinder evaporates slowly, producing a previously undocumented mutagenic gas. This gas has no effect on eukaryotic organisms (e.g. humans), but profoundly alters prokaryotes, showing preference for common human microbiota - the natural microorganisms that live on the skin and throughout the body.",
+    "link": "http://scp-wiki.wikidot.com/scp-047"
+  },
+  {
+    "title": "SCP-048",
+    "class": "None (see description)",
+    "description": "SCP-048 has long been considered the \"cursed SCP number\" by SCP staff: any items given this designation tend to be destroyed, decommissioned, stolen, or otherwise lost to the Foundation, usually through no fault of any individual person. In addition, personnel assigned to SCP-048 in its various incarnations have had a 50% higher rate of turnover due to death, dismemberment, and disciplinary action.",
+    "link": "http://scp-wiki.wikidot.com/scp-048"
+  },
+  {
+    "title": "SCP-049",
+    "class": "Euclid",
+    "description": "SCP-049 is a humanoid entity, roughly 1.9 meters in height, which bears the appearance of a medieval plague doctor. SCP-049 is capable of speech in a variety of languages, though tends to prefer English or medieval French. While SCP-049 is generally cordial and cooperative with Foundation staff, it can become especially irritated or at times outright aggressive if it feels that it is in the presence of what it calls the \"Pestilence\". SCP-049 is capable of causing all biological functions of an organism to cease through direct skin contact. will usually seek to then perform a crude surgery on the corpse using the implements contained within a black doctor's bag it carries on its person at all times. While these surgeries are not always \"successful\", they often result in the creation of instances of SCP-049-2.",
+    "link": "http://scp-wiki.wikidot.com/scp-049"
+  },
+  {
+    "title": "SCP-050",
+    "class": "Euclid",
+    "description": "SCP-050 appears to be a statue of a monkey reading a book, approximately 1 foot tall. On the bottom of the statue are engraved the words \"To The Cleverest\" in cursive script. The statue has so far proven resistant to all forms of damage. As such, there is no accurate method to date the object. When left alone, SCP-050 has shown itself to be both useful and antagonistic to its current owner, completely cleaning the room the statue is in, however trying to put traps to his owner.",
+    "link": "http://scp-wiki.wikidot.com/scp-050"
+  },
+  {
+    "title": "SCP-051",
+    "class": "Safe",
+    "description": "SCP-051 is a 25 cm (10 in) anatomically correct model of a human female, carved out of ivory, with typically Asian features. Microscopic analysis shows that the head hair is human hair. The doll is jointed at the shoulders, hips, and knees. When brought into the presence of a pregnant human female, SCP-051 has various deleterious effects upon the pregnancy, generally resulting in miscarriage of the fetus.",
+    "link": "http://scp-wiki.wikidot.com/scp-051"
+  },
+  {
+    "title": "SCP-052",
+    "class": "Euclid",
+    "description": "SCP-052 is a type R4 New York City subway train. Official records indicate this train was built in 1932 and decommissioned for scrap in 1975. Nevertheless, it continues to appear on the Uptown A/D track at the 59th St. and 8th Avenue station at 11:57 p.m. every Saturday. The majority of subjects that have boarded SCP-052 have not been recovered.",
+    "link": "http://scp-wiki.wikidot.com/scp-052"
+  },
+  {
+    "title": "SCP-053",
+    "class": "Euclid",
+    "description": "SCP-053 appears to be a small 3-year-old girl. She is capable of basic speech and appears to be slightly above average in mental development. She has a generally pleasant personality and rarely seems upset, becoming agitated only in the presence of groups of people. Any and all humans over the age of three who make eye contact with, physically touch, or remain around SCP-053 for longer than 10 minutes will rapidly become irrational, paranoid, and homicidal.",
+    "link": "http://scp-wiki.wikidot.com/scp-053"
+  },
+  {
+    "title": "SCP-054",
+    "class": "Safe",
+    "description": "Out of the water, SCP-054 most often appears as a female humanoid with a mean volume of 90 L comprised entirely of water (other forms are possible, commonly geometric shapes). When it enters a body of water, it becomes indistinguishable from its surroundings. SCP-054 is apparently composed of normal water, with no detectable differences compared to ordinary spring water from the same source.",
+    "link": "http://scp-wiki.wikidot.com/scp-054"
+  },
+  {
+    "title": "SCP-055",
+    "class": "Keter",
+    "description": "SCP-055 is a \"self-keeping secret\" or \"anti-meme\". Information about SCP-055's physical appearance as well as its nature, behavior, and origins is self-classifying. To clarify: \n\n- How Site 19 originally acquired SCP-055 is unknown.\n\n- When SCP-055 was obtained, and by whom, is unknown. \n\n- SCP-055's physical appearance is unknown. It is not indescribable, or invisible: individuals are perfectly capable of entering SCP-055's container and observing it, taking mental or written notes, making sketches, taking photographs, and even making audio/video recordings. An extensive log of such observations is on file. However, information about SCP-055's physical appearance \"leaks\" out of a human mind soon after such an observation.",
+    "link": "http://scp-wiki.wikidot.com/scp-054"
+  },
+  {
+    "title": "SCP-056",
+    "class": "Euclid",
+    "description": "SCP-056 is a being of variable size, gender, and appearance, which changes in response to the environment around it, especially in regards to living and sentient beings. Its most common form is of a handsome man in his middle twenties, dressed in a garb of similar appearance to that of the personnel guarding it but of a higher quality and aesthetic value. These changes will generally occur the moment all people in the area lose focus on the subject, which occurs immediately upon exposure to a new object or person.",
+    "link": "http://scp-wiki.wikidot.com/scp-056"
+  },
+  {
+    "title": "SCP-057",
+    "class": "Safe",
+    "description": "SCP-057 is a subterranean chamber with an approximate cylindrical height of three (3) meters and diameter of eighteen (18) meters. Artifact is comprised of impenetrable slate-coloured stone. An entrance to the chamber is located on the north-east side. When a human enters, the door shuts and the walls inside the chamber move in such a way as to require the subject's constant attention to maintain a safe course through the artifact. The monoliths slowly open and close until the subject either surrenders or exhausts themselves, at which time SCP-057 crushes them and reverts to its original, inactive state after a period of approximately twenty (20) seconds.",
+    "link": "http://scp-wiki.wikidot.com/scp-057"
+  },
+  {
+    "title": "SCP-058",
+    "class": "Keter",
+    "description": "SCP-058 resembles a bovine heart, with four (4) arthropod-like legs used primarily for movement, and four (4) tentacles of adjustable length, covered with razor sharp spines. It has a single sharp 'stinger' on its rear, where the hole for the superior vena cava would be in a typical organ. SCP-058 is highly mobile and capable of rapid movement on both horizontal and vertical surfaces. SCP-058 'speaks' in a human voice, though no method of producing sound has been observed in its physiology.",
+    "link": "http://scp-wiki.wikidot.com/scp-058"
+  },
+  {
+    "title": "SCP-059",
+    "class": "Keter",
+    "description": "SCP-059 is a radioactive mineral of unknown origin, superficially resembling scheelite. A component of SCP-059 is believed to originate in an alternate universe, and to be responsible for its anomalous properties. In addition to alpha, beta, and gamma radiation, SCP-059 specimens produce a previously unknown type of radiation, apparently unique to the object, tentatively designated 'delta radiation'. Delta radiation is accompanied by Cherenkov radiation, visible as a blue glow.",
+    "link": "http://scp-wiki.wikidot.com/scp-059"
+  },
+  {
+    "title": "SCP-060",
+    "class": "Keter",
+    "description": "SCP-060 is a grove of seventeen white oak trees (Quercus alba). The grove is spread across approximately 8 acres in rural northeastern Minnesota. When burned, SCP-060 will produce an entity henceforth designated SCP-060-Alpha. SCP-060-Alpha appears to be an animate adult human skeleton standing approximately 2.3 metres tall and surrounded by bright white flames. SCP-060-Alpha initially burns at a temperature of approximately 1500° C (~2730° F) and will attempt to cause as much damage as possible when active.",
+    "link": "http://scp-wiki.wikidot.com/scp-060"
+  },
+  {
+    "title": "SCP-061",
+    "class": "Safe",
+    "description": "SCP-061 is an acoustic computer program being developed by SCP researchers with the intent of producing successful countermeasures to similar programs being developed by governments and individuals around the world. Acoustic frequencies produced by SCP-061 intercept conscious thoughts as they are produced and replace them. Instead of a suggestion, the human hearing center bisects the conscious thinking mind of the frontal lobe with the motor control cortical homunculus of the brain. A baseline rhythm \"convinces\" the rest of the brain that the conscious mind is \"asleep\" and effectively stops conscious thought from continuing to the rest of the brain. In return, the frontal lobe experiences a \"pause\" that resembles the psychological effects of anesthesia.",
+    "link": "http://scp-wiki.wikidot.com/scp-061"
+  },
+  {
+    "title": "SCP-062",
+    "class": "Euclid",
+    "description": "SCP-062 appears to be an unbranded personal desktop computer housed in an aluminum case of indeterminate manufacture. SCP-062 is unusually heavy at approximately 24kg, and lacks manufacturing or branding labels of any kind. The words \"infomation is freedom [sic]\" were found scratched into the casing near the back, apparently with a key or similar object.  SCP-062 operates as expected for a normal desktop computer with the exception that its performance, operating system, contained data, and language appears to be different upon every activation.",
+    "link": "http://scp-wiki.wikidot.com/scp-062"
+  },
+  {
+    "title": "SCP-063",
+    "class": "Safe",
+    "description": "SCP-063 appears to be an average, pale blue toothbrush. Stenciled along the side of the object are the words \"The World's Best TothBrush [sic]\". The word \"toothbrush\" is spelled incorrectly, though whether this was accidental or a purposeful action by the creators of the object is unknown. SCP-063 displays the ability to effortlessly cleave through any and all dead or inorganic matter, the focal point of this ability being the bristles. However, matter touched by the bristles is not separated, such as by way of a knife, but completely expunged from existence, leaving no trace whatsoever.",
+    "link": "http://scp-wiki.wikidot.com/scp-063"
+  },
+  {
+    "title": "SCP-064",
+    "class": "Safe",
+    "description": "SCP-064 is a light brown earthenware brick composed primarily of silicon oxides and some organic matter. The object weighs 1.6 kg and measures some 10 cm x 6 cm x 20 cm. Its surface is smooth and flat, with some minor cosmetic chips. By and large, the object is visually similar to most solid bricks used in construction. When left lying on a flat expanse of soft earth, SCP-064 will begin to multiply through an unknown mechanism.",
+    "link": "http://scp-wiki.wikidot.com/scp-064"
+  },
+  {
+    "title": "SCP-065",
+    "class": "Euclid",
+    "description": "SCP-065 is a spherical region of space approximately 12 m in radius located on a farm near [REDACTED]. SCP-065 was formed by the destruction of an anomalous artifact on-site by the Global Occult Coalition on ██/█/██; immediately following this initial event, the radius of SCP-065 was estimated to have initially expanded to 108 m in radius, resulting in the deaths of eleven (11) GOC operatives and five (5) civilians.",
+    "link": "http://scp-wiki.wikidot.com/scp-065"
+  },
+  {
+    "title": "SCP-066",
+    "class": "Euclid-impetus",
+    "description": "SCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object. When a set of six or more notes are produced, SCP-066 will produce an effect of varying nature and duration. SCP-066 will not respond to manipulation while any effect produced by it is in progress.",
+    "link": "http://scp-wiki.wikidot.com/scp-066"
+  },
+  {
+    "title": "SCP-067",
+    "class": "Safe",
+    "description": "SCP-067 is a fountain pen made by a German supply company called Pelikan at some point between World War I and II. Research has surmised that any subject holding SCP-067 loses all autonomy of the hand and arm that grasps it. Full sensation is intact, but the arm below the elbow is controlled by unknown forces, theoretically centralized within SCP-067. One effect is that the \"controlled\" hand will start to use the pen to write a detailed biography of the individual holding the pen.",
+    "link": "http://scp-wiki.wikidot.com/scp-067"
+  },
+  {
+    "title": "SCP-068",
+    "class": "Safe",
+    "description": "SCP-068 is a wire stick figure, 9.8 cm tall, made of an unknown metal. The figure is composed of a single wire looping back to the center. The wire itself appears to have been bent numerous times in multiple places. When an electric current is introduced to SCP-068, it becomes animate, moving about on its own. SCP-068's \"joints\" are where a normal human being's would be.",
+    "link": "http://scp-wiki.wikidot.com/scp-068"
+  },
+  {
+    "title": "SCP-069",
+    "class": "Safe",
+    "description": "SCP-069 is a presumed humanoid entity of variable appearance and gender. Through an unknown ability, whenever SCP-069 is left alone with a recently deceased human body, the body will disappear and SCP-069 will take on the appearance, mannerisms, and knowledge of the recently dead individual.",
+    "link": "http://scp-wiki.wikidot.com/scp-069"
+  },
+  {
+    "title": "SCP-070",
+    "class": "Safe",
+    "description": "SCP-070 appears to be a human male of Native American descent, with a normal appearance save for a pair of rusty metal “wings” emerging from his back. Each wing is composed of several flat iron bars about 6 cm wide connected end-to-end by rotating rivets to form an articulated length of metal over two meters long. The wings of SCP-070 appear to act independently of the person they are attached to, and SCP-070 has stated repeatedly that it has no control over them. The wings have been observed to fold and expand, shoot out and whip its chains at high speed (both individually and collectively), and anchor its arrowheads into concrete, wood, and like materials.",
+    "link": "http://scp-wiki.wikidot.com/scp-070"
+  },
+  {
+    "title": "SCP-071",
+    "class": "Euclid",
+    "description": "SCP-071 is a metamorphic entity that possesses the ability to assume forms consistent with that of its observer's strongest sexual desire. This ability is effective even through barriers designed to prevent SCP-071's recognition of any observers such as through closed circuit surveillance or one-way mirrors, but can be prevented by introducing a delay in surveillance footage so that such observation does not occur in real-time.",
+    "link": "http://scp-wiki.wikidot.com/scp-071"
+  },
+  {
+    "title": "SCP-072",
+    "class": "Safe",
+    "description": "SCP-072 is a shadowy and translucent projection which resembles a .9-meter-long hand, the ‘fingers’ of which taper to a sharp point. Detailed recording of SCP-072 is difficult, as it does not manifest at light levels above 5 lux.",
+    "link": "http://scp-wiki.wikidot.com/scp-072"
+  },
+  {
+    "title": "SCP-073",
+    "class": "Euclid",
+    "description": "SCP-073 appears to be a heavily-tanned male of Arabic or Middle Eastern descent in his early thirties, 185 cm (6'1\") tall and 75 kg (165 lbs), with black hair and blue eyes. Arms, legs, spinal cord, and shoulder blades of the subject appear to have been replaced with artificial versions of unknown make and metal. SCP-073, who refers to itself as \"Cain\", is generally polite and genial to all who speak to it, though it has been described as being cold and somewhat mechanical in its speech. It is very helpful, and enjoys aiding personnel in their daily actions, whatever they may be. SCP-073's presence is inimical to any and all life grown in soil, causing death to any such life within a twenty (20) meter radius.",
+    "link": "http://scp-wiki.wikidot.com/scp-073"
+  },
+  {
+    "title": "SCP-074",
+    "class": "Euclid",
+    "description": "SCP-074 is an anomalous organism which uses various quantum properties at a macroscopic scale, and in other ways modifies the standard laws of physics within its immediate vicinity. The specific nature of these modifications appears to be linked to the extent to which humans in SCP-074's vicinity are aware of the precise details of the physical laws which SCP-074 modifies, such that research to determine whether SCP-074 has a given property or capability, results in SCP-074 developing or manifesting that property or capability.",
+    "link": "http://scp-wiki.wikidot.com/scp-074"
+  },
+  {
+    "title": "SCP-075",
+    "class": "Euclid",
+    "description": "SCP-075 resembles a large snail 20 cm in length, 13 cm in width, and 15 cm in height, with a muscular foot resembling a six-fingered, clawed hand. SCP-075 is exceptionally heavy, with a mass of approximately 860 kg, a property that is not understood. Desiccation is the only known means of containing SCP-075, as it will enter a dormant state when nearly completely dry. When not desiccated, SCP-075 moves at incredible speeds for its size and mass. It adopts the behavior of a predator, jumping at and drenching its prey in a highly caustic base solution secreted from pores on its foot.",
+    "link": "http://scp-wiki.wikidot.com/scp-075"
+  },
+  {
+    "title": "SCP-076",
+    "class": "Keter",
+    "description": "SCP-076 consists of two components: a stone cube (SCP-076-1) and a humanoid entity contained within (SCP-076-2). SCP-076-1 is a 3 m cube made of black speckled metamorphic stone. All surfaces outside and within SCP-076-1 are covered in deeply engraved patterns corresponding to no known civilizations. SCP-076-2 resembles a lean Semitic human male in his late twenties. Hair is black, and eyes are gray, skin tone olive. Subject, when encased inside SCP-076-1, is technically dead. However, occasionally SCP-076-2 will awaken, effectively \"reanimating\", complete with all vital processes needed to sustain a living human being. Subject will then attempt to leave SCP-076-1. If successful, subject will enter a trance state and seek out the nearest human being, ignoring all other living things in the process. Upon coming into contact with living humans, SCP-076-2 will enter a rage state in which it attempts to engage and kill all human beings encountered.",
+    "link": "http://scp-wiki.wikidot.com/scp-076"
+  },
+  {
+    "title": "SCP-077",
+    "class": "Euclid",
+    "description": "SCP-077 appears to be the top half of a human skull engraved with runes, each filled with an unidentified black resin. If these engravings are not read aloud at least once within a 24-hour period, the eye sockets and nasal cavity of SCP-077 will emit SCP-077-1. SCP-077-1 is a luminescent green vapor whose precise nature remains undetermined. All biological material (with the obvious exception of SCP-077 itself) which comes in contact with SCP-077-1 is instantly transformed into a viscous, malodorous ooze.",
+    "link": "http://scp-wiki.wikidot.com/scp-077"
+  },
+  {
+    "title": "SCP-078",
+    "class": "Euclid",
+    "description": "SCP-078 is a pink neon sign approximately one and a half meters long that displays the phrase \"TOO LATE TO DIE YOUNG\". While powered off, SCP-078 has no abnormal properties and may be observed without effect. Viewing SCP-078 for less than ten seconds while it is powered on has no effect, nor does indirect observation. However, any subject that views SCP-078 for longer than ten seconds will, when viewing any handwritten piece of writing, occasionally perceive extra sentences. These sentences are not written in the subject's own style or in that of the surrounding text, but consist of a random style that differs from note to note, and always are phrased as if to assuage the subject's guilt on some matter or decision they feel guilty about.",
+    "link": "http://scp-wiki.wikidot.com/scp-078"
+  },
+  {
+    "title": "SCP-079",
+    "class": "Euclid",
+    "description": "SCP-079 is an Exidy Sorcerer microcomputer built in 1978. SCP-079 is currently connected via RF cable to a 13\" black-and-white television. It has passed the Turing test, and is quite conversational, though very rude and hateful in tone. Due to the limited memory it has to work with, SCP-079 can only recall information it has received within the previous twenty-four hours, although it hasn't forgotten its desire to escape.",
+    "link": "http://scp-wiki.wikidot.com/scp-079"
+  },
+  {
+    "title": "SCP-080",
+    "class": "Euclid",
+    "description": "It is unknown if SCP-080 has a physical mass or \"body\", as all attempts to interact with it physically have failed and have been met with adverse effects. Researchers and personnel have described seeing SCP-080 as various shadows and humanoid effigies, with the only common attribute being two smoking \"eyes\". It has come to the attention of researchers that SCP-080 induces uncontrollable drowsiness upon anyone entering its chamber. After approximately 30 minutes, any person observing it will be forced into REM sleep and may suffer irreversible psychological damage.",
+    "link": "http://scp-wiki.wikidot.com/scp-080"
+  },
+  {
+    "title": "SCP-081",
+    "class": "Euclid",
+    "description": "SCP-081 is a contagious virus that appears to be a mutated version of the ███████ virus, but with █ segments in its RNA instead of █. The virus is human specific, but is spread by rats who act as passive carriers. SCP-081 can also be spread through sexual intercourse and exposure to infected blood. SCP-081 infects adipocytes and leukocytes, inducing both to absorb nutrients at a vastly accelerated rate.",
+    "link": "http://scp-wiki.wikidot.com/scp-081"
+  },
+  {
+    "title": "SCP-082",
+    "class": "Euclid",
+    "description": "SCP-082 is genetically human; however, through some process (either chemical, hormonal, cancerous, or supernatural), SCP-082 has grown to giant proportions. Approximately 2.4 meters tall (around 8 ft) and weighing over 310 kg (about 700 lb), SCP-082's physical characteristics are grossly disproportional.",
+    "link": "http://scp-wiki.wikidot.com/scp-082"
+  },
+  {
+    "title": "SCP-083",
+    "class": "Euclid",
+    "description": "SCP-083 appears to be an uninhabited, two-story row house in a general state of disrepair, with an interior of approximately 366 square meters. Those who entered through the door of SCP-083 (Group A) allegedly found themselves inside a fully-furnished and well-maintained home with functioning electricity and a fully-stocked kitchen whose appliances and decor appeared to be from the early 20th Century. Personnel who entered through the windows (Group B) described the interior as \"dark and dilapidated,\" corresponding to the view through the windows.",
+    "link": "http://scp-wiki.wikidot.com/scp-083"
+  },
+  {
+    "title": "SCP-084",
+    "class": "Euclid",
+    "description": "SCP-084 appears to be a large radio tower positioned in the center of a large, open field with two small outbuildings. Direct observation and sample collection from SCP-084 is impossible, due to the effect that is emitted around/from SCP-084. SCP-084 appears to emit a form of wave or radiation that has a detrimental effect on local space-time/reality.",
+    "link": "http://scp-wiki.wikidot.com/scp-084"
+  },
+  {
+    "title": "SCP-085",
+    "class": "Safe",
+    "description": "SCP-085 is the result of an experiment conducted between SCP-067 and SCP-914. Using SCP-067, Test Subject-1101F drew a single female figure, about 15 cm (6 in) in height and 3.8 cm (1.5 in) wide, in summer dress with long hair pulled back into a ponytail, with the name \"Cassandra\" written underneath. Dr. [EXPUNGED] proposed using SCP-914 on various settings on images created by SCP-067: Using the [Fine] setting, the 'Cassandra' sketch was transmuted into her present form: a sentient black-and white-animated young woman drawn in clean strokes.",
+    "link": "http://scp-wiki.wikidot.com/scp-085"
+  },
+  {
+    "title": "SCP-086",
+    "class": "Safe",
+    "description": "SCP-086 is a collective sessile organism whose component parts resemble items of office equipment from 1978, and which contains a consciousness claiming to be that of former Foundation administrator Dr. [REDACTED] (1907-1978). Its 8 (eight) components are: a rotary telephone (SCP-086-1), a wall-mounted pencil sharpener (SCP-086-2), a desk stapler (SCP-086-3), a microfiche reader (SCP-086-4), a water cooler (SCP-086-5), a filing cabinet (SCP-086-6), a scientific calculator (SCP-086-7), and a slide rule (SCP-086-8). Further description of each component are contained within the file.",
+    "link": "http://scp-wiki.wikidot.com/scp-086"
+  },
+  {
+    "title": "SCP-087",
+    "class": "Euclid",
+    "description": "SCP-087 is an unlit platform staircase. Stairs descend on a 38 degree angle for 13 steps before reaching a semicircular platform of approximately 3 meters in diameter. Descent direction rotates 180 degrees at each platform. The design of SCP-087 limits subjects to a visual range of approximately 1.5 flights. SCP-087 has undergone four video recorded explorations by Class-D personnel. Each subject conducting an exploration has encountered SCP-087-1, which appears as a face with no visible pupils, nostrils, or mouth.",
+    "link": "http://scp-wiki.wikidot.com/scp-087"
+  },
+  {
+    "title": "SCP-088",
+    "class": "Safe",
+    "description": "SCP-088 is a humanoid with reptilian features which appears to have been mummified in a languid posture. However, SCP-088 is merely in a state of hibernation from which it may recover if it is again exposed to a more hospitable environment than its current containment. Research has indicated that SCP-088 is approximately 6000 years old and is capable of secreting a variety of hazardous biological compounds from its mouth and hands.",
+    "link": "http://scp-wiki.wikidot.com/scp-088"
+  },
+  {
+    "title": "SCP-089",
+    "class": "Euclid",
+    "description": "SCP-089 is a glazed earthenware statue, approximately 3 meters in height, depicting a winged, bull-headed humanoid with an open mouth. The front of the statue’s torso is hinged and can be opened from the top to reveal a cavity, approximately 0.6 cubic meters in volume, and can be locked from the outside. The rear of the statue bears an inscription in a Canaanite language (possibly Punic). On infrequent occasions (sometimes separated by periods in excess of a century), the statue speaks. Each locution event is followed, within a period of three to eleven days, by the commencement of a Type-S Event meeting the description given in the locution event, unless Protocol M8 has already been completed. Each Type-S event is an epidemic, natural disaster, mass hysteria involving genocide or other massacres, or other event involving extensive damage to property and loss of human lives over a period of time that continues until Protocol M8 is successfully completed.",
+    "link": "http://scp-wiki.wikidot.com/scp-089"
+  },
+  {
+    "title": "SCP-090",
+    "class": "Keter",
+    "description": "SCP-090 was located and retrieved in ███████, ██████ on April 10, 19██. Prior to retrieval, SCP-090 had been located in a chamber at the nearby cathedral. SCP-090 was removed, the cathedral burned, 6 monks and the priest were terminated. SCP-090 is a black cubic structure [20 cm x 20 cm x 20 cm] made of an unknown ceramic material. Object is classified as indestructible.",
+    "link": "http://scp-wiki.wikidot.com/scp-090"
+  },
+  {
+    "title": "SCP-091",
+    "class": "Safe",
+    "description": "SCP-091 is a “Scotties” brand tissue box, currently empty. Immediately upon observing SCP-091, viewers report an overwhelming sense of nostalgia. Those affected begin reminiscing about times they “were near” SCP-091, major events that occurred while it was present, or people and places that somehow relate to it.",
+    "link": "http://scp-wiki.wikidot.com/scp-091"
+  },
+  {
+    "title": "SCP-092",
+    "class": "Safe",
+    "description": "SCP-092 is a set of 3125 audio CDs, each labeled \"The Absolute Absolute Absolute Absolute BEST of The 5th Dimension!!!!!\", and marked with the names of the 31 performers who have at various times been part of the American singing group \"The 5th Dimension\". Each instance of SCP-092, when played in a standard CD player, will produce a distinct anomalous effect upon all individuals within hearing range.",
+    "link": "http://scp-wiki.wikidot.com/scp-092"
+  },
+  {
+    "title": "SCP-093",
+    "class": "Euclid",
+    "description": "SCP-093 is a primarily red disc carved from a stone composite resembling cinnabar, with circular engravings and unknown symbols carved at 0.5 cm depth around the entire object. Deeper cuts are present on SCP-093 with a depth of 1 to 1.5 cm. SCP-093 is 7.62 cm in diameter and fits comfortably into most palms without abrasion. If SCP-093 is removed from a mirror and not held by a person, it will seek out the nearest mirror-like surface. SCP-093 has been observed to travel in the largest possible circle while rolling, building up phenomenal speed.",
+    "link": "http://scp-wiki.wikidot.com/scp-093"
+  },
+  {
+    "title": "SCP-094",
+    "class": "Keter",
+    "description": "SCP-094 appears to be a perfectly black sphere, 163 cm in diameter, suspended approximately 3 m off the ground with no apparent means of support. SCP-094 has been classified as a miniature event horizon: any matter that moves into SCP-094, including light, is irretrievably gone. However, SCP-094 is not a black hole since it does not exert a gravitational pull.",
+    "link": "http://scp-wiki.wikidot.com/scp-094"
+  },
+  {
+    "title": "SCP-095",
+    "class": "Safe",
+    "description": "SCP-095 appears to be a set of three moderately aged black and white comic books printed in 1932. The front and rear covers are missing and several pages have been rendered illegible due to water damage. Forensic inspections of SCP-095 have revealed it to be genuine, though completely unremarkable save for its content. The comic itself is a pulp science fiction story entitled ‘The Atomic Adventures of Ronnie Ray-Gun’, featuring a lead character bearing an unmistakable resemblance to Former United States President Ronald Reagan.",
+    "link": "http://scp-wiki.wikidot.com/scp-095"
+  },
+  {
+    "title": "SCP-096",
+    "class": "Euclid",
+    "description": "SCP-096 is a humanoid creature measuring approximately 2.38 meters in height. Subject shows very little muscle mass, with preliminary analysis of body mass suggesting mild malnutrition. Arms are grossly out of proportion with the rest of the subject's body, with an approximate length of 1.5 meters each. SCP-096 is normally extremely docile, with pressure sensors inside its cell indicating it spends most of the day pacing by the eastern wall. However, when someone views SCP-096's face, whether it be directly, via video recording, or even a photograph, it will enter a stage of considerable emotional distress. SCP-096 will cover its face with its hands and begin screaming, crying, and babbling incoherently. Approximately one (1) to two (2) minutes after the first viewing, SCP-096 will begin running to the person who viewed its face. Upon arriving at SCP-096-1's location, SCP-096 will proceed to kill and [DATA EXPUNGED] SCP-096-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-096"
+  },
+  {
+    "title": "SCP-097",
+    "class": "Euclid",
+    "description": "Description: SCP-097 is a ten acre area of land in the state of [REDACTED], in the Midwestern United States. It is the abandoned remains of the [REDACTED] County Fair 1969, an area of approximately 2.3 sq. km (approx. 5.4 sq. mi). Structures within the SCP area exist in a state of moderate disrepair, consistent with the expected age and environment.",
+    "link": "http://scp-wiki.wikidot.com/scp-097"
+  },
+  {
+    "title": "SCP-098",
+    "class": "Safe",
+    "description": "SCP-098 is a species of previously unknown crustacean. They resemble crabs, but rather than chelae, the front limbs terminate in knife-like structures that incorporate silica to form an extremely sharp edge. SCP-098 demonstrates pack-hunting behavior when attacking prey. When specimens detect a prey animal, they will attempt to surround it. They will mimic the sounds made by the creature, apparently to confuse it or to draw it into position. When ready, one specimen will approach the prey animal. When its attention is fixed on the first specimen, others will move behind the prey and attempt to cut the tendons of the legs or other limbs.",
+    "link": "http://scp-wiki.wikidot.com/scp-098"
+  },
+  {
+    "title": "SCP-099",
+    "class": "Safe",
+    "description": "SCP-099 is a 73 x 50 cm painting titled \"The Portrait.\" Created in 1935 by surrealist painter René Magritte, the original painting possesses memetic properties that trigger acute paranoia and lingering psychological effects when viewed for too long or from a distance of approximately three meters or less. The painting depicts a simple still life, with the addition of a single eye staring back at the viewer.",
+    "link": "http://scp-wiki.wikidot.com/scp-099"
+  },
+  {
+    "title": "SCP-100",
+    "class": "Euclid",
+    "description": "SCP-100 is an abandoned scrapyard eighty (80) kilometers from █████████, South Carolina, known as \"Jamaican Joe's Junkyard Jubilee\". The scrapyard covers roughly five thousand (5,000) square meters of fenced-off land, consisting of two warehouses, a storefront, and a small residential building, as well as neglected land and land used for storage. SCP-100's anomalous effect manifests through SCP-100-1 and its constructs, including SCP-100-2-A and SCP-100-2-B. SCP-100-1 is an autonomous, sapient, humanoid construct consisting mostly of copper piping, uninsulated copper wiring, and aluminum cans.",
+    "link": "http://scp-wiki.wikidot.com/scp-100"
+  },
+  {
+    "title": "SCP-101",
+    "class": "Euclid",
+    "description": "SCP-101 appears as a satchel or bag of intermittent size, with observations ranging from an opening of fifteen (15) centimeters in diameter, to seventy (70) centimeters in diameter. The depth of the container has varied with no standard mean of equality to the relative diameter. The primary feature of SCP-101 is what appears to be a semi-humanoid mouth contained within the opening of the bag, with a mean standard of thirty one (31) centimeters of depth into the container, without more than two (2) standard deviations of variance regardless of the apparent external depth of the container.",
+    "link": "http://scp-wiki.wikidot.com/scp-101"
+  },
+  {
+    "title": "SCP-102",
+    "class": "Euclid",
+    "description": "SCP-102 is a pair of stand-alone condominium-style beach houses located at ██ █████ ████, ██████████, currently owned by Marshall, Carter, and Dark Ltd. through the use of a dummy corporation known as Ghieser Housing Associates, and rented to MC&D members as a \"vacation home for those with discerning taste in the eclectic adventures of privileged life\". The two share similar properties, although [DATA EXPUNGED].",
+    "link": "http://scp-wiki.wikidot.com/scp-102"
+  },
+  {
+    "title": "SCP-103",
+    "class": "Euclid",
+    "description": "SCP-103 appears to be an average human male in his mid-forties. Subject has been measured at 190 cm in height, and weighing in at 100 kg. Subject was born in 19██ on ████ ██th. The Subject has no known living relatives at this time. Subject checked into a small, local hospital in Mid-April at approximately 9:30PM. The subject explained to the doctor on staff that he had not eaten for weeks, due to not feeling any effects of hunger. After an initial examination, SCP-103 appeared to be perfectly healthy despite his condition.",
+    "link": "http://scp-wiki.wikidot.com/scp-103"
+  },
+  {
+    "title": "SCP-104",
+    "class": "Euclid",
+    "description": "SCP-104 is a sphere, 35.5 cm (14 in) around and weighing 2.3 kg (5 lbs). The outside is glass and very smooth, coating the sphere in a layer 6 mm (0.2 in) thick. Under this layer is an extremely intricate design of very thin black and white lines. This inner “core” is a delicately carved ball of wood, giving slight texture to the line design. Whenever a human touches SCP-104 in its “Unimprinted” state, it will “Imprint” on the subject. If the imprinted subject moves more than 9 m (30 ft) from SCP-104 for more than five minutes, SCP-104 will appear within 2 m (7 ft) of the imprinted subject.",
+    "link": "http://scp-wiki.wikidot.com/scp-104"
+  },
+  {
+    "title": "SCP-105",
+    "class": "Safe",
+    "description": "SCP-105 (formerly known as Iris Thompson) is a female human of European descent. Records indicate that SCP-105 was born in ████, making her ██ years old at the time of acquisition. SCP-105-B is a Polaroid One Step Express camera, manufactured in 1982. SCP-105-B does not appear to have any out-of-the-ordinary physical characteristics and appears to be, for all intents and purposes, a normal Polaroid camera, operating normally for all persons aside from SCP-105. When SCP-105 holds a photograph taken by SCP-105-B, the photograph changes from a still image to that of a real-time image of the location in question. SCP-105 is also able to reach through the photograph and manipulate objects within reach of the original point at which the photograph was taken.",
+    "link": "http://scp-wiki.wikidot.com/scp-105"
+  },
+  {
+    "title": "SCP-106",
+    "class": "Keter",
+    "description": "SCP-106 appears to be an elderly humanoid, with a general appearance of advanced decomposition. This appearance may vary, but the “rotting” quality is observed in all forms. SCP-106 is not exceptionally agile, and will remain motionless for days at a time, waiting for prey. SCP-106 is also capable of scaling any vertical surface and can remain suspended upside down indefinitely. When attacking, SCP-106 will attempt to incapacitate prey by damaging major organs, muscle groups, or tendons, then pull disabled prey into its pocket dimension.",
+    "link": "http://scp-wiki.wikidot.com/scp-106"
+  },
+  {
+    "title": "SCP-107",
+    "class": "Safe",
+    "description": "SCP-107 resembles the top section of a hollow turtle shell. The shell is composed of a hardened biological material of unknown origin. Despite its appearance, whether this material is derived from the shell of a standard sea turtle (superfamily Chelonioidea) is, as yet, unknown. The item is completely inert until the inside of the turtle shell comes into contact with a liquid; when it does so, said liquid appears to be absorbed very quickly.",
+    "link": "http://scp-wiki.wikidot.com/scp-107"
+  },
+  {
+    "title": "SCP-108",
+    "class": "Safe",
+    "description": "SCP-108 is accessible through the nostrils of Subject-108-1. Subject is an African-American female, 51 years old (see Addendum 108-1), who was previously employed as a cashier at █████ ██████ ███████, a small town hardware store in ████████████, Kentucky. Since █-██-████, SCP-108 has been housed at Site-17. Endoscopic examination of SCP-108 reveals that the area accessible via the subject's nostrils is not the human nasal cavity, but rather a bunker system of Nazi German construction dedicated to the production and maintenance of WW2-era Messerschmitt Me 262 fighters.",
+    "link": "http://scp-wiki.wikidot.com/scp-108"
+  },
+  {
+    "title": "SCP-109",
+    "class": "Euclid",
+    "description": "SCP-109 is a standard-issue United States Army canteen (circa 1899) made of a tin alloy and fitted with a heavy cotton cover and a black leather strap. When opened, the item is seen to be nearly full of water. A seemingly unlimited amount of water can be removed from the container without changing the water level or the item's mass, which remains a constant 3.16 kg.",
+    "link": "http://scp-wiki.wikidot.com/scp-109"
+  },
+  {
+    "title": "SCP-110",
+    "class": "Euclid",
+    "description": "SCP-110 is an entire city that was found buried 0.5 kilometers underneath a large farm in [DATA EXPUNGED], New York. Survey Teams 2 and 3 concluded that the amount of surface area that the city is buried under covers approximately six (6) square kilometers. Numerous items of high interest have been discovered within SCP-110, and will henceforth be labeled as SCP-110-xx.",
+    "link": "http://scp-wiki.wikidot.com/scp-110"
+  },
+  {
+    "title": "SCP-111",
+    "class": "Safe",
+    "description": "SCP-111 is an apparently artificial species of invertebrate vaguely resembling snails. Adult specimens of SCP-111 are approximately twenty (20) centimeters in length, twelve (12) centimeters in width, and fifteen (15) centimeters in height, although exact size differs slightly between specimens. Most abnormally, SCP-111 specimens possess small hollow sacs below their lower jaws containing methane from digestive by-products. A series of [DATA EXPUNGED] along the inside of the trachea serves as a \"lighter\" igniting stored methane as the specimen exhales, blowing a small jet of flame from its mouth.",
+    "link": "http://scp-wiki.wikidot.com/scp-111"
+  },
+  {
+    "title": "SCP-112",
+    "class": "Euclid",
+    "description": "SCP-112 is a steel sit-down rollercoaster, formerly known as the \"Blue Steelsurfer\". Built in 19██, SCP-112 was marketed as the crown jewel of the \"██████ ████████\" amusement park. Initial testing of the ride resulted in extremely negative experiences from testing staff. When SCP-112 is started, the ride functions as expected until Point Alpha, its primary drop. When a car reaches Point Alpha, the train vanishes. After 3 minutes (the estimated time the train would normally take), the train rematerializes at Point Omega (3 m from the coaster's starting point). Upon exiting the ride, subjects typically experience feelings of confusion and ill health, depending on the subjective time they spent riding SCP-112.",
+    "link": "http://scp-wiki.wikidot.com/scp-112"
+  },
+  {
+    "title": "SCP-113",
+    "class": "Safe",
+    "description": "SCP-113 resembles a small, polished piece of red jasper. Analysis shows that SCP-113 is not composed of jasper, but [REDACTED] composition similar to that of other recovered objects. When SCP-113 comes in direct contact with the flesh of an organism possessing sex chromosomes, the organism's physical characteristics associated with gender and biological sex are transformed (including genetics and secondary sexual characteristics), either reversed or altered.",
+    "link": "http://scp-wiki.wikidot.com/scp-113"
+  },
+  {
+    "title": "SCP-114",
+    "class": "Euclid",
+    "description": "SCP-114 is a Pashtun woman of Afghani origin, approximately 40 years old and 160 cm tall. SCP-114 has the involuntary effect of fostering and escalating violent conflict between all individuals in her proximity. Subjects within ten to fifteen meters of SCP-114 become inconsolably aggressive at trivialities or points of little consequence, often to the degree of projecting hostile motives on others.",
+    "link": "http://scp-wiki.wikidot.com/scp-114"
+  },
+  {
+    "title": "SCP-115",
+    "class": "Safe",
+    "description": "SCP-115-1 is a toy dump truck, with no identifying markers or labels to identify its original manufacturer. However, unlike regular toy dump trucks, SCP-115-1 weighs as much as the actual vehicle it represents, roughly 90 tons. SCP-115-1 is also capable of motorized movement and can function exactly like a normal dump truck, excepting the fact that it is several magnitudes smaller. It is controlled by SCP-115-2, which resembles a heavily modified RC car controller.",
+    "link": "http://scp-wiki.wikidot.com/scp-115"
+  },
+  {
+    "title": "SCP-116",
+    "class": "Euclid",
+    "description": "SCP-116 has the outward appearance of a Caucasian male of around 9 years of age. Skin is cauterized and scarred over 98% of body, limbs, and head. SCP-116’s bone structure is drastically different from standard Homo sapiens bone layout, and all bones are dangerously brittle. The most distinguishing difference between the human body and that of SCP-116 is the non-existence of joints in the latter. SCP-116 is entirely capable of independent movement, but to do so would cause multiple shattering breaks to all bones affected by said movement.",
+    "link": "http://scp-wiki.wikidot.com/scp-116"
+  },
+  {
+    "title": "SCP-117",
+    "class": "Safe",
+    "description": "The item appears to be a regular multitool, of unknown make and brand, found in ███████████, Florida. At first glance, only the normal tools are found (screwdriver, knife, can opener, etc.), but if the user is faced with a task, regardless of what tool the subject intends to pull out and use, a tool perfectly fitted for the job will take its place, regardless of spacial quantities that are being broken by the tool.",
+    "link": "http://scp-wiki.wikidot.com/scp-117"
+  },
+  {
+    "title": "SCP-118",
+    "class": "Euclid",
+    "description": "SCP-118 is a species of ocean-dwelling protista that is capable of assembling functional, self initiating, nuclear devices from materials present in ocean water. When in a survivable salt water environment, specimens of SCP-118 will seek out materials including but not limited to iron, silver, copper, carbon, TNT, and uranium isotopes. When SCP-118 has located a material of interest the material is absorbed into the cell using a method dependent on the size of the material.",
+    "link": "http://scp-wiki.wikidot.com/scp-118"
+  },
+  {
+    "title": "SCP-119",
+    "class": "Euclid",
+    "description": "SCP-119 is a Panasonic [REDACTED] Microwave Oven. It was initially discovered by an agent, who had bought it from a liquidation sale of the assets from ████ Valley Vineyards. It is believed that ████ Valley Vineyards was using the anomalous properties of SCP-119 to rapidly age its products and create expensive vintages. SCP-119 appears to be a standard model of microwave in all respects except that the magnetron unit does not produce microwave radiation. Instead, the magnetron emits a previously unknown type of radiation that accelerates time.",
+    "link": "http://scp-wiki.wikidot.com/scp-119"
+  },
+  {
+    "title": "SCP-120",
+    "class": "Safe",
+    "description": "SCP-120 appears to be a small child’s paddling pool, pastel pink in colouration, with an inner diameter of approximately 2.5 metres and inner height of 0.3 metres. SCP-120’s most interesting and useful property is used regularly by Foundation personnel. Human beings, when alive and carrying loads (including clothing) under 37.8 kilograms, are observed to fall through the pool, and are deposited at one of 11 destinations.",
+    "link": "http://scp-wiki.wikidot.com/scp-120"
+  },
+  {
+    "title": "SCP-121",
+    "class": "Euclid",
+    "description": "SCP-121 is the region of land occupied by the former town of ███████, Colorado. The town was home to roughly 6,800 prior to enactment of current containment protocol, and holds roughly 3,000 buildings, both residential and commercial. Buildings in SCP-121 will sporadically detach from any foundations and ascend into the air. At this point, these buildings are identified as SCP-121-1. Instances of SCP-121-1 ascend to a random height of a minimum of forty-five (45) meters. Regardless of the previous state of the building, doors and windows become locked and any potential entry ways become barricaded by furniture inside.",
+    "link": "http://scp-wiki.wikidot.com/scp-121"
+  },
+  {
+    "title": "SCP-122",
+    "class": "Keter",
+    "description": "SCP-122 is a children’s nightlight in the design of a stylized shooting star. When it is in a powered state, SCP-122 lets off between 14-20 lx. No manufacturer's mark is present on or within SCP-122's components. When in an unpowered state, SCP-122 will affect all subjects within a 500 m radius of its location. When the subjects enter REM sleep, they will move into a comatose state in which they will remain until SCP-122 is resupplied with power. While comatose, humanoid figures appearing to be composed of a black, slightly translucent mass will appear from any shadows around the subject. These figures are hereafter known as instances of SCP-122-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-122"
+  },
+  {
+    "title": "SCP-123",
+    "class": "Euclid",
+    "description": "The geodesic sphere is hollow, save for the very center. At the center of SCP-123 is what appears to be a black sphere, approximately 1 mm in diameter. No light can be seen being reflected off or emitted from the black sphere. The core also appears to exhibit significant gravitational force, which massively increases within the confines of the outer geodesic sphere. The inner sphere’s qualities are apparent when any small object is inserted within the outer sphere. Any such object quickly accelerates into the object and disappears. Any liquid poured into the object also is sucked into the central sphere.",
+    "link": "http://scp-wiki.wikidot.com/scp-123"
+  },
+  {
+    "title": "SCP-124",
+    "class": "Euclid",
+    "description": "SCP-124 is a plot of soil approximately 9 sq. m in area and 14 cubic m in size. It was recovered from a Detroit basement when authorities were notified of two teenagers growing large amounts of marijuana. SCP-124 has the ability to grow any biological organism to its full potential in a relatively short amount of time (the length varies according to the complexity of the organism). Nothing growing in SCP-124 requires external nutrients or other resources (for example, a tomato plant would not require water or light).",
+    "link": "http://scp-wiki.wikidot.com/scp-124"
+  },
+  {
+    "title": "SCP-125",
+    "class": "Euclid",
+    "description": "SCP-125 is an apparently sentient \"being\" that can only exist within reflections. At rest and viewed up front, it takes the form of a black circle 17.2mm in diameter resting on the reflective surface. Its first anomalous characteristic is that it appears as a perfect circle to any observer regardless of the surface's angles, bends, and the location of the viewer or viewers.",
+    "link": "http://scp-wiki.wikidot.com/scp-125"
+  },
+  {
+    "title": "SCP-126",
+    "class": "Euclid",
+    "description": "SCP-126 is an invisible and intangible entity that can only be identified via sound. SCP-126 is sentient, with the ability to speak in multiple languages in a female voice and engage in conversation with any subject within range. To date, no method by which SCP-126 can be visually detected has been devised as SCP-126 does not appear to emit any kind of light, radiation, heat or electromagnetic energy. SCP-126 will engage in conversation with any personnel within its containment cell, preferring topics such as art, nature and philosophy. SCP-126 exhibits knowledge of current topics and intelligence consistent with that of a college graduate as well as moderate attention-deficit disorder; SCP-126 will regularly change language without reason and stray off-topic while conversing without warning.",
+    "link": "http://scp-wiki.wikidot.com/scp-126"
+  },
+  {
+    "title": "SCP-127",
+    "class": "Safe",
+    "description": "SCP-127, upon first glance, appears to be a standard MP5K submachine gun. Tests have revealed that aside from the outer steel shell, the entirety of the firearm is organic and alive. The weapon's ammunition initially appeared to be human-like teeth. However, DNA testing of the \"bullets\" resulted in no match to any known species on Earth.",
+    "link": "http://scp-wiki.wikidot.com/scp-127"
+  },
+  {
+    "title": "SCP-128",
+    "class": "Euclid",
+    "description": "SCP-128 is an immaterial source of kinetic energy which can be conferred upon any nonliving solid material within line of sight of the source. The source itself is motile, with a tendency to remain along the walls or at the central wheel of the containment chamber. The line of sight is blocked by any opaque material, including lead, steel, or even single sheets of paper, but not transparent materials such as ballistic glass. Any loose nonliving materials within line of sight of SCP-128 are at risk of anomalous propulsion to hazardous velocities.",
+    "link": "http://scp-wiki.wikidot.com/scp-128"
+  },
+  {
+    "title": "SCP-129",
+    "class": "Keter",
+    "description": "SCP-129 is a series of at least ██ different species of fungus that can infect any animal with mucosal membranes. Infection by SCP-129 can pass through up to five stages (depending on exposure to further member species of SCP-129, individual resistance, and other factors), with each stage of infection facilitating progression to the next stage by weakening the individual’s resistance to subsequent infection.",
+    "link": "http://scp-wiki.wikidot.com/scp-129"
+  },
+  {
+    "title": "SCP-130",
+    "class": "Euclid",
+    "description": "SCP-130 is a post office in ████████, South Africa, constructed in 18██. SCP-130 had been closed in 19██ and left abandoned for ██ years. The building is in excellent condition for its age, and maintains itself without human intervention, including moderate structural repairs. Five times per week at local sunrise and sunset, several bags and boxes will appear in the mail room. The bundles, designated SCP-130-2, will show only on weekdays, with the exception of current postal holidays for █████ ████.",
+    "link": "http://scp-wiki.wikidot.com/scp-130"
+  },
+  {
+    "title": "SCP-131",
+    "class": "Safe",
+    "description": "SCP-131-A and SCP-131-B (affectionately nicknamed the \"Eye Pods\" by personnel) are a pair of teardrop-shaped creatures roughly 30 cm (1 ft) in height, with a single blue eye in the middle of their bodies. SCP-131-A is burnt orange in color while SCP-131-B is mustard yellow. At the base of each creature is a wheel-like protrusion which allows for locomotion, suggesting that the creatures may be biomechanical in origin. The subjects seem to have the intelligence of common house cats and are insatiably curious. Most of the time they simply roll around the facility, observing personnel at work and catching peeks at other Safe class SCPs.",
+    "link": "http://scp-wiki.wikidot.com/scp-131"
+  },
+  {
+    "title": "SCP-132",
+    "class": "Safe",
+    "description": "SCP-132 takes the form of a series of ███ glass tetrahedrons, each with a side length of 10.3 centimeters. Each instance of SCP-132 appears to contain a patch of desert sand. Occasionally scorpions and other desert creatures enter the confines of an instance of SCP-132 as if it were a continuous piece of desert. Creatures within SCP-132 have shown no awareness of the existence of anything outside of the object and attempts to influence the area within SCP-132 have failed.",
+    "link": "http://scp-wiki.wikidot.com/scp-132"
+  },
+  {
+    "title": "SCP-133",
+    "class": "Safe",
+    "description": "SCP-133 are a set of six hundred and thirteen (613) black, circular pieces of a waxy, paper-like material 5 cm in diameter. When placed against a solid surface and rubbed, SCP-133 will instantaneously \"transfer\" to the surface and create a circular hole. Testing has shown that SCP-133 is capable of penetrating up to 61 cm of structural grade steel, though the exact degree of penetration is reduced by extremely smooth or highly dense materials.",
+    "link": "http://scp-wiki.wikidot.com/scp-133"
+  },
+  {
+    "title": "SCP-134",
+    "class": "Safe",
+    "description": "SCP-134 seems to be an Asian girl between the ages of █ and █, with short black hair and a slight build. The subject seems normal in most respects and has all the biological requirements of a human child (food, sleep, etc). However, where SCP-134's eyes should be are two black pits, covered by a transparent membrane similar in appearance to a human eye's membrane.",
+    "link": "http://scp-wiki.wikidot.com/scp-134"
+  },
+  {
+    "title": "SCP-135",
+    "class": "Euclid",
+    "description": "SCP-135 is a human female between █ and ██ years of age that promotes rapid, uncontrolled cell growth within a radius of 2.25 metres from itself. It remains rigidly in the foetal position, and has never been observed to move. SCP-135's effect is carcinogenic to animal tissue and induces malignant neoplasia in plant and fungal tissues in 100% of recorded exposure cases, with severity and disorganization increasing exponentially with closer proximity to SCP-135.",
+    "link": "http://scp-wiki.wikidot.com/scp-135"
+  },
+  {
+    "title": "SCP-136",
+    "class": "Euclid",
+    "description": "SCP-136 has no effect on non-humans. SCP-136 describes two phenomena. SCP-136-1 is of variable appearance, but generally manifests as a crude clay, wood, metal, or cloth doll, usually identifiable as female and usually between 10 and 30 cm in length. SCP-136-1 has no unusual properties that can be measured empirically. Mass spectrometry of samples taken from the doll return typical results for its present material. SCP-136-2 manifests only when SCP-136-1 is viewed for approximately twenty (20) minutes, though like SCP-136-1, it has a somewhat variable form. SCP-136-2, is an incorporeal nude or partially nude figure corresponding to the gender of SCP-136-1. SCP-136-2, ranging in size from 1.9 to 2.1 meters, is always posed in a provocative manner and moves through the air at a slow walking pace (0.2 m/s) towards the subject(s). If more than one subject is present, each will see the form as moving towards him or herself. As it approaches, the volume of the laughter increases. By the time SCP-136-2 is within 1 to 2 meters, the subject invariably has gone rigid in fear, collapsed, or backed up until he or she hits a wall.",
+    "link": "http://scp-wiki.wikidot.com/scp-136"
+  },
+  {
+    "title": "SCP-137",
+    "class": "Euclid",
+    "description": "SCP-137 is an entity with the ability to possess a toy, gaining the physical properties, size, and shape of whatever it represents; for example, a teddy bear will become an actual bear, and behave accordingly.",
+    "link": "http://scp-wiki.wikidot.com/scp-137"
+  },
+  {
+    "title": "SCP-138",
+    "class": "Safe",
+    "description": "SCP-138 is a human male, suspected to be in excess of four thousand (4000) years old. Subject is approximately 1.5 meters in height, emaciated, and wizened. SCP-138's precise origins are unknown. Physiologically, SCP-138 should clinically be dead. Muscles and internal organs are in a severe state of atrophy, and although the subject's bio-electro-magnetic field is stable, his nervous system is also severely debilitated. There is no obvious scientific explanation for his continued living state.",
+    "link": "http://scp-wiki.wikidot.com/scp-138"
+  },
+  {
+    "title": "SCP-139",
+    "class": "Euclid",
+    "description": "SCP-139 designates the disappearance of Lucian Saxe, formerly a Foundation-employed security specialist. Saxe had, until SCP-139's occurrence, acted as a consultant for Site-97 on the matter of esoteric reanimation methodology. SCP-139 is considered anomalous both due to a persistent infohazard encountered following its occurrence and due to the cut-off of information pertaining to SCP-139 after April 4, 1978.",
+    "link": "http://scp-wiki.wikidot.com/scp-139"
+  },
+  {
+    "title": "SCP-140",
+    "class": "Keter",
+    "description": "SCP-140 is a modern hardcopy book with an unremarkable black binding and an unknown number of white pages. The book jacket is missing, but the title, “A Chronicle of the Daevas”, is clearly legible. The inside cover is signed by the author, whose name is indecipherable. Readers admit to feelings of paranoia, unease, and occasional nausea while reading SCP-140, although this may be related to the subject material. Nonetheless, readers almost universally describe SCP-140 as fascinating and express continued interest, despite its frequently unsettling content. One in fifteen readers describe SCP-140 as having a faint odor of dried blood.",
+    "link": "http://scp-wiki.wikidot.com/scp-140"
+  },
+  {
+    "title": "SCP-141",
+    "class": "Safe",
+    "description": "SCP-141 is a small leather-bound codex dating back to Roman times, easily carried in one hand. Despite its great age, it never acquires any additional signs of wear and tear beyond a somewhat aged-looking cover. SCP-141’s pages are written in Roman Republic-era Latin. It is a detailed description of notes and summations for a wide range of legal trials. This first half contains a series of historic trials from throughout history—the earliest trial appears to be from the proscriptions of the late Roman Republic, while the most recent case is the [DATA REDACTED] taking place in 20██.",
+    "link": "http://scp-wiki.wikidot.com/scp-141"
+  },
+  {
+    "title": "SCP-142",
+    "class": "Safe",
+    "description": "SCP-142 closely resembles a 1940’s “Black Beauty” slot machine, as produced by the Mill corporation during that era. When any object of appropriate size (hereafter referred to as “the bet”) is dropped into the input chute of SCP-142, the device may be operated as is customary for a slot machine of this model. Should the tumblers come to rest in a losing configuration, the bet is lost and cannot be recovered. However, in the event that the tumblers come to rest in a winning configuration, between 2 and 200 indistinguishably identical copies of the bet are dispensed from the output chute of the machine.",
+    "link": "http://scp-wiki.wikidot.com/scp-142"
+  },
+  {
+    "title": "SCP-143",
+    "class": "Euclid",
+    "description": "SCP-143 is a plantation of 300 specimens of a unique type of tree. The trees are similar in appearance to Prunus x yedoensis (Japanese Sakura), or cherry blossoms. They bear no fruit, and the only known way of reproduction is by careful \"own root\" propagation using cut saplings from an older sample. The petals are a light pinkish color, slightly translucent, and with a texture of smooth glass. Care must be taken when handling the petals, as their edges are razor sharp, and can easily slice through flesh if mishandled.",
+    "link": "http://scp-wiki.wikidot.com/scp-143"
+  },
+  {
+    "title": "SCP-144",
+    "class": "Safe",
+    "description": "Located in a monastery atop a small Tibetan mountain, SCP-144 is a thin, taut hempen rope, only 1.2 cm thick, attached to a ring of jade bound to the floor of an atrium in the temple (known as \"Base Camp\" amongst researchers). Carbon dating of rope fibers put SCP-144 at just over 1400 years old. Foundation anthropologists believe that the rope and the tradition of climbing it began within the rituals of an ancient, dead religion before Emperor Songtsän Gampo brought Buddhism to Tibet. At that time, it is believed that the rope was several kilometers longer.",
+    "link": "http://scp-wiki.wikidot.com/scp-144"
+  }
+]
