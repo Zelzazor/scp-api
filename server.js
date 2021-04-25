@@ -3,8 +3,15 @@ const app = express();
 const fs = require('fs');
 require('dotenv').config()
 const port = process.env.PORT;
+const encodedKey = process.env.KEY;
 
 app.get('/scp/', (req, res)=>{
+    if(!req.headers.authorization){
+       return res.json({"error": "Not Authorized"});
+    }
+    else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
+       return res.json({"error": "Not Authorized"});
+    }
     fs.readFile(`./scp/scp.json`, (err, data) => {
         if (err) throw err;
         let result = JSON.parse(data);
@@ -14,6 +21,12 @@ app.get('/scp/', (req, res)=>{
 });
 
 app.get('^/scp/:number([0-9]{3,4})', (req,res)=>{
+    if(!req.headers.authorization){
+        return res.json({"error": "Not Authorized"});
+     }
+     else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
+        return res.json({"error": "Not Authorized"});
+     }
     fs.readFile(`./scp/scp.json`, (err, data) => {
         if (err) throw err;
         let result = JSON.parse(data);
@@ -24,6 +37,12 @@ app.get('^/scp/:number([0-9]{3,4})', (req,res)=>{
 });
 
 app.get('/scp/random', (req,res)=>{
+    if(!req.headers.authorization){
+        return res.json({"error": "Not Authorized"});
+     }
+     else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
+        return res.json({"error": "Not Authorized"});
+     }
     fs.readFile(`./scp/scp.json`, (err, data) => {
         if (err) throw err;
         let result = JSON.parse(data);
