@@ -1,9 +1,12 @@
 const express = require('express');
+const helmet = require('helmet');
 const app = express();
 const fs = require('fs');
-require('dotenv').config()
+require('dotenv').config();
 const port = process.env.PORT;
 const encodedKey = process.env.KEY;
+
+app.use(helmet());
 
 app.get('/scp/', (req, res)=>{
     if(!req.headers.authorization){
@@ -66,5 +69,5 @@ app.get('/scp/random', (req,res)=>{
 
 
 app.listen(port, ()=>{
-    console.log(`Listening at http://localhost:${port}`)
+    console.log(`Listening at port ${port}`)
 })
