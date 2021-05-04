@@ -33,7 +33,7 @@ app.get('^/scp/:number([0-9]{3,4})', (req,res)=>{
     fs.readFile(`./scp/scp.json`, (err, data) => {
         if (err) throw err;
         let result = JSON.parse(data);
-        let filter = result.filter(item => item.title === `SCP-${req.params.number}`)
+        let filter = result.find(item => item.title === `SCP-${req.params.number}`)
         res.json(filter);
     });
     
@@ -59,7 +59,7 @@ app.get('/scp/random', (req,res)=>{
             }
             
         }
-        let filter = result.filter(item => item.title === `SCP-${random}`)
+        let filter = result.find(item => item.title === `SCP-${random}`)
         res.json(filter);
     });
     
