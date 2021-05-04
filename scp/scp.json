@@ -2,35 +2,35 @@
   {
     "title": "SCP-001",
     "class": "N/A",
-    "name": "Awaiting Declassification [Blocked]", 
+    "name": "Awaiting Declassification [Blocked]",
     "description": "WARNING: In order to prevent knowledge of SCP-001 from being leaked, several/no false SCP-001 files have been created alongside the true file/files. All files concerning the nature of SCP-001, including the decoy/decoys, are protected by a memetic kill agent designed to immediately cause cardiac arrest in any nonauthorized personnel attempting to access the file. Revealing the true nature/natures of SCP-001 to the general public is cause for execution, except required under ████-███-██████.",
     "link": "http://scp-wiki.wikidot.com/scp-001"
   },
   {
     "title": "SCP-002",
     "class": "Euclid",
-    "name": "The \"Living\" Room", 
+    "name": "The \"Living\" Room",
     "description": "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
     "link": "http://scp-wiki.wikidot.com/scp-002"
   },
   {
     "title": "SCP-003",
     "class": "Euclid",
-    "name": "Biological Motherboard", 
+    "name": "Biological Motherboard",
     "description": "SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2. SCP-003-1 appears to be composed of chitin, hair, and nails of unknown biology, arranged in a configuration similar to that of a computer motherboard. It is considered probable that SCP-003-2 was created for the purpose of containing SCP-003-1. Partially interpreted data recovered from SCP-003-2 may refer to a past and/or potential future LK-class restructuring event caused by SCP-003-1.",
     "link": "http://scp-wiki.wikidot.com/scp-003"
   },
   {
     "title": "SCP-004",
     "class": "Euclid",
-    "name": "The 12 Rusty Keys and the Door", 
+    "name": "The 12 Rusty Keys and the Door",
     "description": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
     "link": "http://scp-wiki.wikidot.com/scp-004"
   },
   {
     "title": "SCP-005",
     "class": "Safe",
-    "name": "Skeleton Key", 
+    "name": "Skeleton Key",
     "description": "SCP-005 resembles an ornate key with the ability to open any and all forms of lock, be they mechanical or digital, with relative ease.",
     "link": "http://scp-wiki.wikidot.com/scp-005"
   },
@@ -1265,5 +1265,138 @@
     "name": "\"Lucky\"",
     "description": "SCP-181 is known as G████ O██████, formerly D-87465. SCP-181 shows signs of affecting the causal probability around him by no will of his own. He had been incarcerated for repeated offenses of defrauding the Nevada Gaming Commission. Following the 18th month of his life sentence, he was quietly moved to Armed Reliquary Containment Area-02, where he was initiated and assigned a Level D clearance. His first exposure experiment was with SCP-███, and the results were bloody but expected. When LvD-65468 was exposed to SCP-███, he rampaged and killed those in the room, but SCP-181 was spared when an armed response team put down D-65468. SCP-181 was included into an experiment with SCP-075 the week following the incident with SCP-███. When placed in the containment chamber with an activated SCP-075 to measure its speed and reflex time, SCP-181 managed to avoid SCP-075 a total of 3 times before suppression teams refroze SCP-075. Having survived not one but two Keter class exposure experiments, SCP-181 was a statistical anomaly.",
     "link": "http://scp-wiki.wikidot.com/scp-181"
+  },
+  {
+    "title": "SCP-182",
+    "class": "Euclid",
+    "name": "\"Rider\"",
+    "description": "SCP-182 is a Caucasian male, of average build, roughly 45 years of age, and has suffered heavy abdominal and cranial scarring at an unspecified point in the past (by subject's own admission, shortly before he was admitted into the care of the Foundation in 19██). SCP-182 is both deaf and mute, compensating for these disabilities with natural abilities. SCP-182 has displayed the ability to passively enter the minds of other animals, including humans, and to perceive sight and sound through their senses, in effect 'riding' as a passenger in their minds. This has no consistent effect on personnel, and some guards have rotated on and off on a regular basis for the past ██ years without detrimental effects.",
+    "link": "http://scp-wiki.wikidot.com/scp-182"
+  },
+  {
+    "title": "SCP-183",
+    "class": "Euclid",
+    "name": "\"Weaver\"",
+    "description": "SCP-183 is an unknown biological entity that is, for all intents and purposes, invisible. Evidence of its existence comes mainly in the form of monofilament wires which the organism apparently synthesizes. These fibers are extremely thin and durable; they are capable of slicing through soft tissue, bone, and even body armor with very little force. Coupled with the difficulty of seeing them, this constitutes a serious hazard to all personnel within the container. Organic material left within the container disappears at a rate of approximately 4 kg per day, an indication that the organism is omnivorous.",
+    "link": "http://scp-wiki.wikidot.com/scp-183"
+  },
+  {
+    "title": "SCP-184",
+    "class": "Euclid",
+    "name": "The Architect",
+    "description": "SCP-184 is a small, smooth metallic object, 10 cm (4 in) tall and 10 cm (4 in) wide, in the shape of a dodecahedron. Each face of the figure has a circular hole in the center, and a small sphere is attached to each vertex. SCP-184 is made of an unknown, but highly magnetic, alloy about as hard as brass. When inside an enclosed structure, SCP-184 expands the structure's inner dimensions without altering its outer dimensions. SCP-184 will increase the inner dimensions of any enclosed structure by several hundred meters each day, beginning one hour after entry into the structure. Initially, SCP-184 only extends the walls out, causing rooms to become much larger without adjusting the height of the room. This expansion continues until the original dimensions of the room have been tripled. At this point, SCP-184 starts creating wholly new rooms.",
+    "link": "http://scp-wiki.wikidot.com/scp-184"
+  },
+  {
+    "title": "SCP-185",
+    "class": "Safe (Euclid class considered after incident 185-1.)",
+    "name": "The Radio",
+    "description": "SCP-185 appears to be a Russian R-105M radio used during the Cold War, except that it has a crudely-added keypad and LCD screen. The object can receive most radio transmissions, including encrypted signals. Attempts to determine how it can break even the strongest of encryptions have so far been fruitless. SCP-185 has a very long range, surpassing even modern radio equipment. It functions as a normal radio until input is added via the keypad. It seems that if a year is entered into the keypad, the radio will receive transmissions from the specified era (depending on if messages were being broadcast on the set frequency).",
+    "link": "http://scp-wiki.wikidot.com/scp-185"
+  },
+  {
+    "title": "SCP-186",
+    "class": "Euclid",
+    "name": "To End All Wars",
+    "description": "SCP-186 is the site of an unrecorded military engagement occurring from 7/24/1917 to 8/13/1917 between elements of the Imperial German Army and forces of the Russian provisional government as part of the larger conflict of World War I, and the continuing effects resulting from its aftermath.",
+    "link": "http://scp-wiki.wikidot.com/scp-186"
+  },
+  {
+    "title": "SCP-187",
+    "class": "Safe",
+    "name": "Double Vision",
+    "description": "SCP-187 is a Caucasian female, early to mid 20s, 180 cm tall, weighing 40 kg (approx 88 lb). She is recovering from the effects of severe malnutrition. SCP-187 exhibits a unique form of precognition whereby she sees everything in two states simultaneously: as they are, and as they will be. She does not see minor changes, only changes to what would be considered the 'norm'.",
+    "link": "http://scp-wiki.wikidot.com/scp-187"
+  },
+  {
+    "title": "SCP-188",
+    "class": "Safe",
+    "name": "The Craftsman",
+    "description": "SCP-188 is a volume of iridium metal hosting an effect that acts on a finite region around the object. With the exception of the regional effect, SCP-188 is, chemically and physically, an otherwise unremarkable sample of iridium metal. The regional effect of SCP-188 induces changes in the environment. The changes take the form of discrete manipulations, such as scratches on surfaces or grouping and shaping of ambient material such as dust. These changes emerge over time and are widespread over the entire region of the effect.",
+    "link": "http://scp-wiki.wikidot.com/scp-188"
+  },
+  {
+    "title": "SCP-189",
+    "class": "Safe",
+    "name": "Hair-Imitating Parasite",
+    "description": "SCP-189 is a species of parasitic roundworm (tentative taxonomic classification [DATA EXPUNGED]) capable of infesting any mammalian life form. Infection most commonly occurs as a result of direct skin contact with one or more egg sacs. These egg sacs are covered with microscopic \"hooks\" similar to those on the cuticles of some species of nematode, which anchor the sacs to the skin's surface. The \"tail\" of an adult specimen of SCP-189 is no more durable than normal hair, and its \"head\" no more strongly attached to the host follicle. The \"tail\" can be cut or broken, or the entire organism pulled out, by any method that would similarly affect hair.",
+    "link": "http://scp-wiki.wikidot.com/scp-189"
+  },
+  {
+    "title": "SCP-190",
+    "class": "Safe",
+    "name": "A Prize Toybox",
+    "description": "SCP-190 is a carved wooden box banded with iron, measuring 50 cm x 70 cm x 35 cm. The lid is carved with a representation of a large circus tent with an open central panel, within which stands a figure dressed as a stereotypical ringmaster.When an individual age 10 or older opens the hinged lid, SCP-190 contains 17 marbles of assorted size and color, 2 sticks of lightly used green sidewalk chalk, and 1 deck of Bicycle brand playing cards. These objects can be manipulated within the confines of SCP-190, but cannot be removed from it. When an individual under the age of 10 opens SCP-190, it will contain 1-5 toys or games intended for use by children. Observed objects include stuffed animals, rubber balls, yo-yos, dolls, blocks, and simple board games.",
+    "link": "http://scp-wiki.wikidot.com/scp-190"
+  },
+  {
+    "title": "SCP-191",
+    "class": "Safe",
+    "name": "Cyborg Child",
+    "description": "SCP-191 is a female human child, approximately █ years old. It is believed to have been a test subject of several experimental surgeries performed by the late Dr. █████ █████████. 80% of the left half of the face and skull have been removed, with the eye and ear replaced by a complex transceiver system that allows it to receive and transmit not only visual and auditory input, but a wider spectrum of electromagnetic radiation ranging from low frequency radio to high-energy gamma rays. An input-output device has been placed into the right forearm, replacing the radius and ulna bones. A 24-core processor array has been implanted in the brain, which \"translates\" input from all artificial components, essentially allowing SCP-191 to read and write computer data without the use of an external interface.",
+    "link": "http://scp-wiki.wikidot.com/scp-191"
+  },
+  {
+    "title": "SCP-192",
+    "class": "Safe",
+    "name": "Flawless X-Ray Machine",
+    "description": "SCP-192 is a vacuum x-ray tube that forms the primary component of a diagnostic x-ray machine manufactured by ███████ on ██-██-20██, with diagnostic use commencing on █-██-20██. This machine was designated SCP-192-1. When an image is produced by a machine with SCP-192 inside, the area examined on the subject will be modified via unknown means to match the image eventually produced. This has the effect of introducing or removing injuries or disease from the subject, in accordance with the image.",
+    "link": "http://scp-wiki.wikidot.com/scp-192"
+  },
+  {
+    "title": "SCP-193",
+    "class": "Safe",
+    "name": "The Tissue Snail",
+    "description": "SCP-193-01 is consistent in external appearance with a box of ███████ brand facial tissue. The bottom folds of the box are abnormally complex, and house a previously unknown soft-bodied invertebrate. The creature's genetics suggest that it is a member of phylum Mollusca, but do not match any more specific known taxonomic classification. The \"cardboard\" of the box has proven to be a highly specialized shell generated and maintained by the organism, which will gradually repair damage to the box if able. As compared with cardboard the shell is many times less flammable and more durable, but is by no means indestructible.",
+    "link": "http://scp-wiki.wikidot.com/scp-193"
+  },
+  {
+    "title": "SCP-194",
+    "class": "Safe",
+    "name": "Thank You For Your Cooperation",
+    "description": "SCP-194 is a red-painted rowboat, designed to seat two people.",
+    "link": "http://scp-wiki.wikidot.com/scp-194"
+  },
+  {
+    "title": "SCP-195",
+    "class": "Euclid",
+    "name": "A \"Medicinal Whiskey\"",
+    "description": "SCP-195 is a \"medicinal whiskey\" sold by a pair of traveling salesmen in the pre-Civil War South. When a subject consumes any quantity of SCP-195, they will initially react in a manner consistent with the consumption of an equal quantity of \"gutrot\" whiskey or moonshine. Within a short span of time (time frame varies by subject), they begin to experience heightened awareness and increased sensory input (taste, touch, smell, et cetera). After the \"whiskey's\" effects wear off, the test subjects will generally return to normal, with the exception of those who [DATA EXPUNGED]. Within a month, however, all subjects will experience a generalized feeling of ennui coupled with fatigue. MRI scans at this stage show development of ulcer-like wounds in the stomach and lungs. These continue to spread indefinitely until the death of the subject.",
+    "link": "http://scp-wiki.wikidot.com/scp-195"
+  },
+  {
+    "title": "SCP-196",
+    "class": "Euclid/Keter",
+    "name": "Time Paradox",
+    "description": "SCP-196 appears to be a middle-aged male, under two (2) meters tall, of African-American descent. He claims to be forty-seven years old. Subject has black hair and brown eyes. There are no abnormal physical characteristics. Subject displays all basic needs of a normal human being. Subject tested with an I.Q. of 109, well within normal parameters. SCP-196 appeared at ██:██:██ on █/██/200█ inside of Site-██. SCP-196 claims he was recruited in █████ of 201█ through standard class D recruitment procedures for testing of SCP-███. Subject also claims that his younger self is currently living in another location in ██████████, ████████. Genetic identification checks confirm that SCP-196 has encountered Foundation security personnel in the past, in an incident at Site-17 on ██/█/196█. During that incident, SCP-196 was far older and was killed by SCP security personnel during an attempted break-in at that facility. SCP-196 was, at that time, not known to the Foundation as anything other than a lone human assailant; however, he was found to be carrying SCP-███ and several purely mundane weapons.",
+    "link": "http://scp-wiki.wikidot.com/scp-196"
+  },
+  {
+    "title": "SCP-197",
+    "class": "Safe",
+    "name": "The Greenhouse",
+    "description": "SCP-197 is a plant nursery and greenhouse located at ████ █ █████████, ████████, ██. Currently the site is abandoned, although previous containment procedures were to maintain the location as a nursery. Most of the anomalous properties of SCP-197 are located within the glass structure of the greenhouse, although research conducted at the time of the site's abandonment suggests that SCP-197 has a wide sympathetic influence on the surrounding area, which has displayed a level of deterioration equal to SCP-197 itself. Organisms within the kingdom Plantae that grow within or are introduced to the greenhouse take on additional characteristics, including self-awareness, sensory awareness, sapience, and capacity for language and mobility, despite a lack of nervous system, brain, sensory organs, vocal cords, or musculature.",
+    "link": "http://scp-wiki.wikidot.com/scp-197"
+  },
+  {
+    "title": "SCP-198",
+    "class": "Euclid",
+    "name": "Cup of Joe",
+    "description": "SCP-198 has taken numerous forms since coming into Foundation possession in 19██. Since acquisition, SCP-198 has been observed to have had dozens of different forms including a Styrofoam cup, █████████ brand glass beer bottle, ██████ and ████-████ brand aluminum soda cans, an oversized shot glass that read “One Tequila, Two Tequila, Three Tequila, Floor”, a plastic water bottle with a █████ label partially peeled off, and [DATA EXPUNGED]. These forms always appear partially filled with the expected liquid a vessel of that type would contain. Anomalous behavior does not manifest until a live human being grasps SCP-198 to hold it. Approximately 2 - 5 seconds after the SCP is held, it will instantly bond itself through unknown, albeit painful means to the handler’s hand or hands. Test subjects have reported the pain of bonding with SCP-198 as a “searing” or “fiery” sensation, though no heat can be detected by outside observers or instruments.",
+    "link": "http://scp-wiki.wikidot.com/scp-198"
+  },
+  {
+    "title": "SCP-199",
+    "class": "Euclid",
+    "name": "Spy Ferns",
+    "description": "SCP-199 is a species of fern within the Hymenophyllaceae family. SCP-199 is tangentially related to filmy ferns, but is more tolerant to temperature, humidity, pollution, and external damage. The rhizomes of the plants can attach to and grow on most solid surfaces. SCP-199’s appearance is similar of that of thallose liverworts, but its fronds are unique to its species.",
+    "link": "http://scp-wiki.wikidot.com/scp-199"
+  },
+  {
+    "title": "SCP-200",
+    "class": "Euclid",
+    "name": "Chrysalis",
+    "description": "SCP-200 is contained within a chrysalis measuring 172.4 cm in length from stem to tip, attached to a standard queen size bed frame and mattress. The chrysalis is a mottled brown in color, and analysis shows it to consist of several layers of silk, woven in such a way as to be coarse to the touch. The silk layers appear to be held together by [DATA EXPUNGED]. SCP-200 itself was last seen as a 13-year-old Caucasian male, measured at 152 cm in height and weighing 168.73 kg. It retreated into its chrysalis on ██/██/20██, and researchers have been unable to explain how the child produced the silk to construct its encasement. SCP-200 lies dormant a majority of the time, although it may be observed twitching occasionally, particularly if it is startled by sudden contact or a loud noise. However, in its current state it poses no threat.",
+    "link": "http://scp-wiki.wikidot.com/scp-200"
   }
 ]
