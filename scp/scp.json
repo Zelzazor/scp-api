@@ -1398,5 +1398,320 @@
     "name": "Chrysalis",
     "description": "SCP-200 is contained within a chrysalis measuring 172.4 cm in length from stem to tip, attached to a standard queen size bed frame and mattress. The chrysalis is a mottled brown in color, and analysis shows it to consist of several layers of silk, woven in such a way as to be coarse to the touch. The silk layers appear to be held together by [DATA EXPUNGED]. SCP-200 itself was last seen as a 13-year-old Caucasian male, measured at 152 cm in height and weighing 168.73 kg. It retreated into its chrysalis on ██/██/20██, and researchers have been unable to explain how the child produced the silk to construct its encasement. SCP-200 lies dormant a majority of the time, although it may be observed twitching occasionally, particularly if it is startled by sudden contact or a loud noise. However, in its current state it poses no threat.",
     "link": "http://scp-wiki.wikidot.com/scp-200"
+  },
+  {
+    "title": "SCP-201",
+    "class": "Euclid",
+    "name": "The Empty World",
+    "description": "SCP-201 appears to be a very old piece of medical equipment, superficially resembling an IV stand, but with many other glass and metal items attached to it. Entering within thirty meters of SCP-201 can result in the subject being displaced into an alternate reality. This effect is apparently random, with some subjects remaining totally unaffected after exposure to SCP-201. Those affected will cease to exist in our reality between one and forty-eight hours after initial exposure. Durations of displacement vary between a few hours and upwards of eight years.",
+    "link": "http://scp-wiki.wikidot.com/scp-201"
+  },
+  {
+    "title": "SCP-202",
+    "class": "Safe",
+    "name": "The Rewind Man",
+    "description": "SCP-202 is an Asian-British male, 41 years of age, who performs all actions in reverse. He does not appear to age in reverse, but speaks, eats, walks, and performs all other actions opposite to what is considered normal. SCP-202 speaks in reverse English with a British accent. Recording his speech and playing it backwards at a 1:1 speed allows for normal communication. The subject asserts that he was a normal individual living in Stockport, England, until he woke up one morning four years ago and found that every action he attempted to do, he did in reverse.",
+    "link": "http://scp-wiki.wikidot.com/scp-202"
+  },
+  {
+    "title": "SCP-203",
+    "class": "Euclid",
+    "name": "Tortured Iron Soul",
+    "description": "SCP-203 appears to at one time have been a Caucasian human male of indeterminate age. The subject’s entire skeletal structure has been removed and replaced with a mechanical framework made of cast iron that seems to move on its own volition. This framework appears to be the sole cause of SCP-203’s ambulation, independent of its musculature. Several areas of skin on the subject’s body have split, revealing a section of the subcutaneous metal framework. SCP-203 appears to run on an internal power cell that runs for a 72-hour period, after which the subject enters into a state of hibernation that lasts between 3 and 4 hours. Subject cannot deliberately deactivate this power source, though it has expressed that these periods of “sleep” are the only escape it has from its otherwise miserable existence.",
+    "link": "http://scp-wiki.wikidot.com/scp-203"
+  },
+  {
+    "title": "SCP-204",
+    "class": "Keter",
+    "name": "The Protector",
+    "description": "SCP-204-1 is a semi-organic nano-machine colony that follows SCP-204-2 as a form of protector. SCP-204-1 spends the majority of its time in a dispersed cloud, where it is almost impossible to perceive with normal human senses. However, if SCP-204-2 is put into danger, or if SCP-204-2 commands it to, SCP-204-1 will instantaneously materialize into a solid, physical form. The exact shape and nature of this form is subjective, depending wholly upon SCP-204-2's view, state of mind, and imagination. Despite its variable nature, SCP-204-1 has a number of common traits. These include: massive strength, large size, basic intelligence, perfect obedience to SCP-204-2, and the ability to regenerate itself after consuming living flesh.",
+    "link": "http://scp-wiki.wikidot.com/scp-204"
+  },
+  {
+    "title": "SCP-205",
+    "class": "Euclid",
+    "name": "Shadow Lamps",
+    "description": "SCP-205 is a pair of flood lamps used in photography. The light emitted by each lamp behaves in a manner unique to SCP-205 and passes completely through any surface that is not colored white. Once the light contacts a white surface it scatters and reflects as normal and loses any unnatural properties. If the light continues uninterrupted through any matter, otherwise casting no shadow, each lamp will display an unidentified young woman's shadow upon any flat white surface, such as the projection screen in Chamber 52. When supplied with steady power and maintained, the SCP-205 pair will go through a six month cycle that ends on April 30th and October 31st of each year. SCP-205 will shut off at midnight on the final day of each cycle. Any persons entering or already inside Chamber 52 when the lamps are both turned off are violently assaulted by forces unseen in a manner consistent with the fate suffered by the shadow woman, regardless of any other light sources in the room.",
+    "link": "http://scp-wiki.wikidot.com/scp-205"
+  },
+  {
+    "title": "SCP-206",
+    "class": "Euclid",
+    "name": "The Voyager",
+    "description": "SCP-206 is a Martian exploratory rover (Designation - Invictus) launched on 12/08/20██ as part of a joint Russian Space Research Institute / European Space Agency effort. (Exact object specifications are listed in Document 206-AA1.) Despite a successful launch aboard a Soyuz-FG rocket, telemetry data was lost on 16/01/20██, roughly halfway to Mars. Attempts to re-establish communication failed, and on 10/02/20██ the craft was declared lost. SCP-206 contacts Earth sporadically, utilizing its original channel, [DATA REDACTED]. Once a connection is established, it uploads a number of images in varying formats. Tracking stations have received a total of ████ images. A large number of these images (roughly 38%) appear to have been taken on Earth, or worlds similar to it (differing in some detail).",
+    "link": "http://scp-wiki.wikidot.com/scp-206"
+  },
+  {
+    "title": "SCP-207",
+    "class": "Safe",
+    "name": "Cola Bottles",
+    "description": "SCP-207 refers to a crate containing 24 Coca-Cola brand cola drinks. The bottles are designated SCP-207-A to -X. SCP-207-B is currently the active bottle for testing, and no other bottles are to be opened without authorisation from two Level 4 researchers. Mass spectroscopy and chemical tests have shown higher than usual concentrations of caffeine and sugars (both natural and artificial), along with [REDACTED]. The practical effect of this is when a subject drinks SCP-207-1, they will effectively no longer require sleep or rest, nor attempt to sleep or rest. In addition to removing the need for rest, SCP-207-1 also causes an increase in motor, reaction, and psychological functions. However, SCP-207-1 does not alter the body of affected subjects. Physiology remains unchanged, and as such, can rarely support the increase in activity. No subjects have lasted longer than 48 hours during testing, with the cause of death varying from massive internal organ failure to exsanguination due to major artery ruptures.",
+    "link": "http://scp-wiki.wikidot.com/scp-207"
+  },
+  {
+    "title": "SCP-208",
+    "class": "Safe",
+    "name": "\"Bes\"",
+    "description": "SCP-208 appears to be a short, stout man of Egyptian heritage, possessing a great deal of hair over much of his body. Along his brow is a mane similar to a lion's in shape and color, which grows down to a significant beard. SCP-208 is capable of inducing rapid cellular regeneration and reconfiguration within organic life forms, which amounts to the ability to quickly and effectively heal most physical ailments. This is performed by a unique form of electromagnetic radiation released from SCP-208’s body, which acts on a wavelength that oscillates with four degrees of freedom rather than three. Despite his appearance, SCP-208 is jovial and friendly to staff, and enjoys the company of others. Due to his good behavior and willingness to cooperate, SCP-208 has been permitted access to most common areas within Site-17.",
+    "link": "http://scp-wiki.wikidot.com/scp-208"
+  },
+  {
+    "title": "SCP-209",
+    "class": "Euclid",
+    "name": "The Sadist's Tumbler",
+    "description": "SCP-209 appears to be a single-malt Scotch tumbler, 10 cm in height and with an 8 cm diameter at its widest point. The tumbler shows no manufacturer's marks, but does indicate signs of moderate to heavy use and light wear including a small chip missing from the rim. When not in the possession of a human subject, the tumbler contains approximately 88 to 91 ml (3 oz) of an unknown golden-brown, translucent liquid. This liquid cannot be siphoned, spilled, drained, evaporated, or otherwise removed from SCP-209 by any means other than a human subject taking hold of the tumbler and consuming the liquid. All Activator subjects debriefed following a sampling of the liquid produced by SCP-209 report it to be alcoholic in nature and providing of a sense of warmth, self-assurance, and general well-being. This effect has proven to be highly addictive, with methadone therapy currently holding the highest rates of success for detoxification from SCP-209's effects.",
+    "link": "http://scp-wiki.wikidot.com/scp-209"
+  },
+  {
+    "title": "SCP-210",
+    "class": "Safe",
+    "name": "Flooded House",
+    "description": "SCP-210 is a two-story mansion flooded to a depth of 4.35 meters with an unknown fluid substance. The substance, designated SCP-210-01, possesses a refractive index nearly identical to water. This fluid is invisible from the outside of SCP-210 and does not flow out of SCP-210 if a door or window is opened. Any living creature that comes into contact with SCP-210-01 enters a sleep-like state and begins drifting through SCP-210-01 as if neutrally buoyant. Beings trapped in this manner are designated SCP-210-02; to date, ██ instances of SCP-210-02 have been cataloged by remote means.",
+    "link": "http://scp-wiki.wikidot.com/scp-210"
+  },
+  {
+    "title": "SCP-211",
+    "class": "Safe",
+    "name": "Paper-Covered Building",
+    "description": "SCP-211 is a two-story building located in an abandoned district of ███████, IA. Records from ███████'s archives heavily suggest that the building was originally a middle-class dwelling, belonging to G██████ S███████████ (since deceased of natural cause). Since then, all furnishings have disappeared, save standard light fixtures and a radiator (pictured above). Note that several of these lights' switches have not been discovered, rendering them useless. Additionally, the building's topography has been nearly completely covered with an estimated ███,███ sheets of paper, hereafter collectively designated as SCP-211-1.",
+    "link": "http://scp-wiki.wikidot.com/scp-211"
+  },
+  {
+    "title": "SCP-212",
+    "class": "Safe",
+    "name": "The Improver",
+    "description": "SCP-212 is a large medical device, with three large robotic arms. The arms have an extremely diverse array of attachments, but no storage area or power source has yet been found. Attachments slide into and out of the arms as needed, with over five hundred different attachments documented. SCP-212 is made of plastic, steel, and other common materials. In-depth analysis is pending, as any attempt by mechanical means causes violent action from SCP-212, and attempts by any biological means normally results with subject's “improvement”.",
+    "link": "http://scp-wiki.wikidot.com/scp-212"
+  },
+  {
+    "title": "SCP-213",
+    "class": "Euclid",
+    "name": "Anti-Matter Parasite",
+    "description": "SCP-213 is an adolescent humanoid male, 1.5 m tall, weighing 95 kg. SCP-213 is able to forcefully sever the bonds between atoms in any solid or semi-solid matter with physical contact. An intense flash of light is produced when doing so. SCP-213 can use any part of its body to manifest this effect, and has used it to disintegrate projectiles as they impact its body. Manifestation of this effect has proven to be extremely painful, with extended use causing enough pain to render SCP-213 unconscious.",
+    "link": "http://scp-wiki.wikidot.com/scp-213"
+  },
+  {
+    "title": "SCP-214",
+    "class": "Euclid",
+    "name": "Hemotopian Virus",
+    "description": "SCP-214 is male, age ██, formerly Agent █████ of the Foundation. Physical and mental changes were noted after investigation of Incident ███ at ██████ Public Library, MA. Containment of SCP-214 is detailed in [REDACTED]. A physical examination of SCP-214 shows the replacement of most bodily fluids, including but not limited to blood, vitreous humor, seminal fluid, and cerebrospinal fluid, with a mercury-like substance. Chemical analysis shows that the substance is a suspension of complex organometallic compounds in a protein- and lipid-enriched serum, but so far, nothing more can be ascertained of its origins or purpose.",
+    "link": "http://scp-wiki.wikidot.com/scp-214"
+  },
+  {
+    "title": "SCP-215",
+    "class": "Safe",
+    "name": "Paranoia-Inducing Spectacles",
+    "description": "SCP-215 is a pair of prescription glasses designed to correct myopic vision. When worn, SCP-215 induces a belief in the wearer that inanimate objects are sentient and capable of communication with the wearer. The severity of this delusion varies from wearer to wearer, but generally strengthens over time if SCP-215 is worn regularly, and in the worst cases manifests as a severe case of obsessive-compulsive disorder, culminating in an irrational fear of all machines.",
+    "link": "http://scp-wiki.wikidot.com/scp-215"
+  },
+  {
+    "title": "SCP-216",
+    "class": "Safe",
+    "name": "The Safe",
+    "description": "SCP-216 is a 35.6 cm (14 in) high iron safe with a multiple-dial combination lock. The lock has 7 dials each with numbers ranging from 0 to 9. The door of SCP-216 can always be opened, but the accessible interior space appears to change depending on the currently entered combination. Objects placed inside SCP-216 may be accessed by re-entering the combination that was configured when the object was inserted. Objects retrieved from SCP-216 appear to be undamaged by the device.",
+    "link": "http://scp-wiki.wikidot.com/scp-216"
+  },
+  {
+    "title": "SCP-217",
+    "class": "Keter",
+    "name": "The Clockwork Virus",
+    "description": "SCP-217 is a virus, incurable by current means, with a rate of infectivity at 100%. It affects all organisms in the kingdom Animalia, and can be spread via touch or contact with bodily fluid. SCP-217 is very hardy, and can survive for years outside the host body. The progress of the infection is very slow, with some subjects going several years before manifesting any symptoms. SCP-217 alters the biochemistry of organic tissue, causing organic matter to re-arrange into a form of “organic metal”.",
+    "link": "http://scp-wiki.wikidot.com/scp-217"
+  },
+  {
+    "title": "SCP-218",
+    "class": "Euclid",
+    "name": "Lamprey-Mass Organism",
+    "description": "SCP-218 is a predatory colonial organism weighing approximately 1800 kg, consisting of several hundred parasitic lampreys of the family Petromyzontidae, designated Petromyzon anomalis. Individual Petromyzon anomalis specimens average between 50 and 90 cm in length, and are similar in appearance to the common sea lamprey, (Petromyzon marinus) with the primary exception of complex ultraviolet-spectrum skin patterning. Individual lampreys can break off from the primary mass and move under their own power, acting similar to non-anomalous specimens.",
+    "link": "http://scp-wiki.wikidot.com/scp-218"
+  },
+  {
+    "title": "SCP-219",
+    "class": "Safe",
+    "name": "Resonance Engine",
+    "description": "SCP-219 is a mechanical device consisting primarily of an array of pistons, driven by an electric motor which can be powered by attaching it to a separate generator. The entire machine is supported by a thorium alloy frame. The outer frame of each of SCP-219's pistons are also made primarily of the same thorium alloy. Attached to the outside of SCP-219 is an ████ IBM Desktop PC, keyboard, and monitor, all shielded with shock-absorbent foam to prevent damage to them by SCP-219's vibrations. When SCP-219's computer is turned on, it automatically runs an \"Earthquake Generator\" program. Using the keyboard, a user can select up to twenty items from a list of commonly used construction materials, including multiple varieties of stone, soil, bricks, concrete, steel, iron, [DATA EXPUNGED] and glass.",
+    "link": "http://scp-wiki.wikidot.com/scp-219"
+  },
+  {
+    "title": "SCP-220",
+    "class": "Safe",
+    "name": "Two's Company",
+    "description": "SCP-220 is a multiracial, English-speaking human male, aged 76 years as of 5/15/12. SCP-220 presents behaviors symptomatic of dissociative identity disorder, alternately referring to himself and behaving as one of two distinct identities. It is uncertain whether SCP-220 is affected by a psychological disorder or is deliberately playing the role of two persons. In SCP-220's public and private behavior, the identity of \"Ormond Garibaldi\" alternates with that of \"Ollie G████\" (a name which corresponds with the subject's birth certificate). Any individual who interacts with SCP-220 in person will be fully convinced that these identities are two separate persons.",
+    "link": "http://scp-wiki.wikidot.com/scp-220"
+  },
+  {
+    "title": "SCP-221",
+    "class": "Safe",
+    "name": "Compulsion Tweezers",
+    "description": "SCP-221 is a pair of tweezers made out of gold, made in the 16th or 17th century. After subject testing it was noted that the damaged areas which had been used to gather material samples were smaller than they had been prior to the test. Subject testing revealed that SCP-221 creates a highly focused case of Obsessive-Compulsive Disorder in any person which uses it on their own body. Subjects will utilize SCP-221 to slowly remove any and all hair from their body, before removing finger and toenails, as well as teeth, culminating with the removal of organs, both the external, such as the eyes and skin, and the internal, such as the liver and pancreas, using their hands if SCP-221 is not effective.",
+    "link": "http://scp-wiki.wikidot.com/scp-221"
+  },
+  {
+    "title": "SCP-222",
+    "class": "Euclid",
+    "name": "Clone Coffin",
+    "description": "SCP-222 designates an area of tunnels in the Dolomites Mountains, near Aviano, Italy. The site is close to the Church of St. Gregory, and Aviano Air Force Base is also nearby. The tunnels are filled with carved stone coffins; one coffin in particular has unusual properties, and some portion of the tunnels is also involved. The carvings in the tunnels appear very old and of fairly good workmanship. If a living person is placed into the coffin and it is closed, the following sequence of events occurs: Within 15 minutes, the occupant falls asleep. The occupant sleeps for 1-2 hours. Opening the coffin during this time usually results in the death of the occupant and no further results. The occupant wakes up, feeling well rested. Within 24 hours, a person will be found within the tunnels who is a duplicate, or clone, of the occupant.",
+    "link": "http://scp-wiki.wikidot.com/scp-222"
+  },
+  {
+    "title": "SCP-223",
+    "class": "Euclid",
+    "name": "A Photo Album",
+    "description": "SCP-223 is a photo album, capable of holding thirty (30) photos, bound like a small hardcover book. The photos are attached to the pages with an unknown adhesive. It matches the appearance of a product made by ██████████ but lacks any brand label. SCP-223 contains twenty-eight (28) photos, which chronicle an engaged couple’s vacation to ██████ Beach. The final two (2) pages of the album have been ripped out. The couple in the photos has been positively identified as E███ ██████ and L███ ██████, who went on the vacation depicted June of 19██. E███ and L███ died on June ██ in a murder-suicide by E███. There is one other person who frequently appears in the photos of SCP-223, a Caucasian male with attractive and somewhat androgynous features, designation SCP-223-1. Occasionally, persons reading SCP-223 will see the likeness of their romantic interest in one or more of SCP-223’s photos, replacing an incidental bystander.",
+    "link": "http://scp-wiki.wikidot.com/scp-223"
+  },
+  {
+    "title": "SCP-224",
+    "class": "Euclid",
+    "name": "Grandfather Clock",
+    "description": "SCP-224 is a wooden grandfather clock, accented with a black lacquer and gold leaf. Markings, remotely observed, date its origin at the end of the 19th century. Though internal examination of its components has been done, the density and construction of its gears make method of function impossible to interpret. The hands of the clock do not move with any known consistency, though the tendency seems to be generally clockwise. Additionally, chimes occur at non-regular intervals, ranging from approximately one minute to several months. Each chime has an anomalous acoustic signature that causes a drastic localized temporal acceleration. People and objects in range of the sound begin to age.",
+    "link": "http://scp-wiki.wikidot.com/scp-224"
+  },
+  {
+    "title": "SCP-225",
+    "class": "Euclid",
+    "name": "Unstoppable and Immovable",
+    "description": "SCP-225-1 and SCP-225-2 are shiny gray metallic spheres of unknown origin and composition, each with a diameter of 0.681 meters. SCP-225-1 appears stable and motionless, but is in fact moving in a geosynchronous path above Earth, at the exact speed of Earth's rotation, maintaining its relative position at all times. SCP-225-2 follows a path around the sun that is nearly synchronous with Earth's. It does not orbit Earth; Earth rotates under it, giving it the illusory appearance of traveling around the Earth at velocities usually ranging from 1,600 - 2,000 km/h, depending on its current relative altitude. Similarly to SCP-225-1, no force or weaponry brought to bear upon it has had any effect, though testing on it is significantly more difficult, time-consuming, and resource-intensive due to the variation in its relative position. To summarize: no effort to move or damage SCP-225-1 has any effect, and no effort to stop or damage SCP-225-2 has any effect.",
+    "link": "http://scp-wiki.wikidot.com/scp-225"
+  },
+  {
+    "title": "SCP-226",
+    "class": "Safe",
+    "name": "Puzzle Of Terror",
+    "description": "SCP-226 is a cardboard box, measuring roughly 30 cm x 20 cm x 4 cm. It has a lid that fits securely over the bottom half, as with any common puzzle box. The surface of the box is a deep black, with the word \"fear\" scrawled with white ink on the upper-right corner of its lid. Within the box are 1,000 cardboard puzzle pieces, each measuring roughly 2 centimeters in diameter, also considered SCP-226. When completed, the puzzle always forms in a rectangular shape. However, the design and order in which the pieces fit together change with use. SCP-226 aligns itself with whoever initially opens the box. When opened, the pieces change design, and the completed image will show what has been discovered to be the greatest fear of the person who it is aligned to.",
+    "link": "http://scp-wiki.wikidot.com/scp-226"
+  },
+  {
+    "title": "SCP-227",
+    "class": "Safe",
+    "name": "Complete Antikythera Mechanism",
+    "description": "SCP-227 is a bronze clockwork device measuring 10 cm x 16 cm x 26 cm and weighing 5 kg. SCP-227 is somewhat similar in appearance to reconstructions of the \"Antikythera Mechanism\", an incomplete and heavily corroded Greek artifact thought to date from approximately 100 BCE. Unlike that artifact, SCP-227 was found intact and apparently fully functional. SCP-227 has one major dial with three hands on the front face; this dial has several concentric rings which rotate independently. The rear face has two major dials with two hands each; these dials are surrounded by a spiral groove, through which some of the internal gearing is visible. A number of smaller dials are arranged around the rest of the object. Early indications are that SCP-227 is an incredibly accurate astronomical computer. Symbols corresponding to the Sun, Moon, and planets are prominently placed on the front major dial, along with many other symbols of unknown meaning.",
+    "link": "http://scp-wiki.wikidot.com/scp-227"
+  },
+  {
+    "title": "SCP-228",
+    "class": "Safe",
+    "name": "Psychiatric Diagnostic Tool",
+    "description": "SCP-228 is a Polaroid photograph of variable appearance. It is apparent at this time that SCP-228 derives its subject matter from the subconscious mind of the viewer. The images produced are always visually clear, but vary in interpretive coherency. For example, one viewer may cause SCP-228 to manifest a clear portrait of that viewer's father, while another causes an image of a heart shaped object submerged in green fluid to [REDACTED]. The coherence of the image produced by SCP-228 appears to vary from subject to subject, and is theorised to have some connection to the viewer's emotional state. SCP-228 will be used to assist members of the psychiatric staff at Site-23. During psychoanalysis, the patient, hereafter referred to as the subject, will be asked leading questions and instructed to look at SCP-228.",
+    "link": "http://scp-wiki.wikidot.com/scp-228"
+  },
+  {
+    "title": "SCP-229",
+    "class": "Euclid",
+    "name": "Wire Weed",
+    "description": "SCP-229 appears to be a mass of wires and cables. Superficially, they appear to be raw copper wire, insulated Ethernet cable, phone cable, power lines, and many other forms of electrical cable. The current mass weighs 94 kg at last measurement. SCP-229 is tentatively identified as a form of silicon-based life. SCP-229 is a highly invasive parasite, attacking anything carrying even a low electrical current. SCP-229 will grow several centimeters every hour, and form connectors to attach to electrical power sources (wall socket plugs, USB connectors, etc.). SCP-229 will also splice itself into power lines and existing wires if no connection is available. SCP-229 appears to \"feed\" off electricity.",
+    "link": "http://scp-wiki.wikidot.com/scp-229"
+  },
+  {
+    "title": "SCP-230",
+    "class": "Euclid",
+    "name": "The Gayest Man Alive",
+    "description": "SCP-230 is a male Caucasian with a lean build and gaunt appearance. SCP-230 is 185 cm (6 ft 1 in) tall, 68.04 kg (150 lbs), and appears to be in his early thirties. He wears bright clothing and prefers the colors pink and yellow. SCP-230 is a very cheerful individual who appears to be incapable of negative emotions. SCP-230 secretes a chemical similar in composition to heroin from his pores. The chemical has been named Compound-███. When inhaled, Compound-███ causes extreme euphoria in subjects. Analysis on Class-D personnel under the effects of SCP-230 indicated they had dopamine levels greater than five times of what is expected during sexual climax. Subjects express impairment similar to the effects of heroin.",
+    "link": "http://scp-wiki.wikidot.com/scp-230"
+  },
+  {
+    "title": "SCP-231",
+    "class": "Keter",
+    "name": "Special Personnel Requirements",
+    "description": "SCP-231-7 is a █████ female between █ and ██ years of age, with [DATA EXPUNGED]. SCP-231-1 through 7 were retrieved from ██████████, ██, following a police raid on a warehouse owned by an organization called the Children of the Scarlet King. 24 hours after the rescue, SCP-231-1 (real name ████████████ ████████████) went into labor pains, giving birth three minutes later to SCP-██ (█████████ ██████████), causing a ██████████ event resulting in over ███ confirmed casualties. Foundation Personnel immediately took possession of remaining SCPs 231-2 through 231-7 and, based on notebooks recovered from the cult, instituted Procedure 110-Montauk to prevent future occurrences.",
+    "link": "http://scp-wiki.wikidot.com/scp-231"
+  },
+  {
+    "title": "SCP-232",
+    "class": "Safe",
+    "name": "Jack Proton's Atomic Zapper",
+    "description": "SCP-232 is a mass-produced children's toy of early 1950s manufacture, composed primarily of tin and a battery-powered electric light apparatus, with an exterior painted to resemble a laser gun of the type featured in popular science fiction of the early 20th century. Within 5-30 seconds of picking up SCP-232, the person handling it will begin speaking in English, regardless of any previous fluency with the language or lack thereof, in a manner resembling the speech patterns of pre-teen and/or adolescent American youth culture circa 1920-1960. Persons so affected will deny that anything is unusual about their manner of speech and will insist that they have always spoken thusly.",
+    "link": "http://scp-wiki.wikidot.com/scp-232"
+  },
+  {
+    "title": "SCP-233",
+    "class": "Keter",
+    "name": "23-Sided Polyhedron",
+    "description": "SCP-233 is a 23-sided polyhedron, each face being made up of both an equilateral triangle and a straight line simultaneously. Because of the space-time altering nature of the object, the exact physical makeup of the object cannot be emulated in three-dimensional or two-dimensional form. SCP-233 has the unusual property of altering the laws of mathematics in its vicinity, causing rounding errors to occur unless calculated using a base-23 system. Mathematical calculations carried out in base 23, however, have the benefit of being carried out at 23 times the normal speed: for this reason, destruction of the item has been postponed pending possible integration into [DATA EXPUNGED].",
+    "link": "http://scp-wiki.wikidot.com/scp-233"
+  },
+  {
+    "title": "SCP-234",
+    "class": "Euclid",
+    "name": "Extradimensional Fish",
+    "description": "SCP-234 is a species of organism of presumed extradimensional origin resembling fish measuring approximately 25 mm in length. SCP-234 does not appear to have any eyes or light-sensitive organs, but navigates via a highly evolved sense of echolocation. It maintains buoyancy via a gas-filled organ similar to a swim bladder which allows it to float in the air, and exhibits behavior consistent with an omnivorous scavenger organism, though to date it has not been observed consuming any terrestrial organic matter. When an SCP-234 specimen is startled, killed, brought out of the Red Zone, or the closed space containing the specimen is breached, all matter (including air) within the closed space is immediately extradimensionally evacuated with sufficient force to cause a catastrophic implosion within the surrounding area.",
+    "link": "http://scp-wiki.wikidot.com/scp-234"
+  },
+  {
+    "title": "SCP-235",
+    "class": "Safe",
+    "name": "Phonographic Records",
+    "description": "SCP-235 appear to be shellac phonograph records of the type commonly produced in the late 1920s. Each instance of SCP-235 has a white label with the title in black lettering. Each record contains a different song. Each instance of SCP-235 creates an identical phenomenon when played at speeds between 77 and 79 rpm: all objects within a certain distance of the recording (correlated with the volume at which it plays) appear to freeze in place whenever the record \"skips\", or is unable to play a section of the recording. This \"freeze\" lasts for a set duration, approximately 1█ times the amount of time skipped. Those affected do not perceive the freeze and will continue as they were before it began unless outside stimulus is introduced to alert them to the gap in time. During the freeze, all motion in the affected area stops completely: objects thrown or falling will remain in mid-air, individuals do not breathe or blink, and even chemical reactions such as fire will simply pause in a manner visually similar to pausing a movie.",
+    "link": "http://scp-wiki.wikidot.com/scp-235"
+  },
+  {
+    "title": "SCP-236",
+    "class": "Keter",
+    "name": "Mimic \"Crabs\"",
+    "description": "SCP-236 appears to be a swarm of near-microscopic crabs. Individuals match no known form of crustacean, and elements of their physiology appear to point to an artificial origin (See Document █████████████████). SCP-236 appears to operate under a form of collective intelligence or “hive mind”. This intelligence appears to grow when individual SCP-236 are in close proximity, and dissipate when they are divided. Large swarms appear to exhibit “predatory” intelligence, and become significantly more aggressive than individuals. Swarms show aptitude with problem solving, encircling tactics, and stealth. In addition, swarms appear able to take on the physical aspects and appearance of inanimate objects, such as doors, chairs, or even complex patterns such as those found in paintings, for extended periods of time. This mimicry is near perfect under casual observation, and requires detailed observation to detect.",
+    "link": "http://scp-wiki.wikidot.com/scp-236"
+  },
+  {
+    "title": "SCP-237",
+    "class": "Safe",
+    "name": "Self-Made Man",
+    "description": "SCP-237 is the collective designation of the physical remains of SCP-237-1, and of the set of instances of SCP-237-2 which it created. Prior to being taken into Foundation custody, SCP-237-1 appeared to be a human male of Japanese ethnicity, with falsified identity documents indicating an age of 24 years. It manifested the anomalous ability to endow instances of SCP-237-2 with sapience, sensoria, and independent mobility. The 16 instances of SCP-237-2 are clay-and-polyurethane statuettes which were anomalously given awareness, sight, hearing, and independent mobility by SCP-237-1. 14 of the instances have displayed the ability to speak Japanese; of these 14, 3 have also displayed the ability to speak English.",
+    "link": "http://scp-wiki.wikidot.com/scp-237"
+  },
+  {
+    "title": "SCP-238",
+    "class": "Keter",
+    "name": "Building Complex",
+    "description": "SCP-238 is an enormous underground facility, with a single entrance on the island Shmidta to the extreme north of Russia. Tunnel networks have been shown to extend for thousands of kilometers, with major \"Junctions\" under [DATA EXPUNGED]. Shortly after discovery of a central chamber, reported to consist of partially rotted flesh and badly decayed metal structures, personnel began to disappear, and numerous accidents claimed eight lives. \"Noises\" and other hallucinations were reported, along with ████████, and other [DATA EXPUNGED].. Eight containment walls and associated personnel were destroyed by unknown means, with a survivor reporting \"███████ ███████\" (unconfirmed), in addition to rapidly escalating aggressive phenomenon by SCP-238.",
+    "link": "http://scp-wiki.wikidot.com/scp-238"
+  },
+  {
+    "title": "SCP-239",
+    "class": "Keter",
+    "name": "The Witch Child",
+    "description": "SCP-239 appears to be an 8-year-old girl, 1 meter in height and 20 kilograms in weight. Subject has shoulder-length blond hair. Upon closer inspection, the subject's eyes \"shimmer\" a gray-green shade. Subject seems to emit a previously undiscovered form of radiation, which has been named ███████████. These waves seem to be harmless in low concentrations but in higher concentrations they could break down matter on a subatomic level. SCP-239 seemingly has the ability to do whatever she expresses a will to do. Put simply, the subject can do anything that she truly wants to do on a basal psychological level as long as she is conscious. Fortunately, she only seems to be able to affect herself and her immediate surroundings; therefore, \"If she can see it, she can change it.\"",
+    "link": "http://scp-wiki.wikidot.com/scp-239"
+  },
+  {
+    "title": "SCP-240",
+    "class": "Safe",
+    "name": "Breath-Powered Flying Machine",
+    "description": "SCP-240 is a vehicle capable of air travel. It is constructed from a wooden rod which the operator sits in the middle of, a mouthpiece connected to a pipe device, and a large canvas sack, which contains a porthole for exhaust fumes to exit. The words \"Morsum Kite\" have been painted on spot the operator is intended to sit on. The words \"From many, comes might\" are sown into the canvas. When activated, SCP-240 is capable of flying for approximately twice the duration of the user exhaling into its mouthpiece. Following this, it will enter a slow descent and ultimately land. Although it can only take off from land, testing has shown that SCP-240 is capable of landing on water and heavier-than-air gases.",
+    "link": "http://scp-wiki.wikidot.com/scp-240"
+  },
+  {
+    "title": "SCP-241",
+    "class": "Safe",
+    "name": "Good Home Cooking",
+    "description": "SCP-241 appears as a normal book, 33 cm x 23 cm x 3.5 cm, entitled Good Home Cooking. The cover of SCP-241 is a red and white checkerboard pattern, with the title in simple black letters on the front and spine. When open, SCP-241 contains 99 recipes, sorted into typical sections of a cookbook. Whenever SCP-241 is opened by a subject (known as the Target) different from the one who last opened it (i.e. the previous Target), the recipes contained in the book change. Preliminary investigations concluded that if the Target eats a dish prepared from one of the recipes in SCP-241, that person soon dies from apparent anaphylactic shock.",
+    "link": "http://scp-wiki.wikidot.com/scp-241"
+  },
+  {
+    "title": "SCP-242",
+    "class": "Safe",
+    "name": "Self \"Cleaning\" Pool",
+    "description": "SCP-242 is a swimming pool approximately 4.5 m wide by 9 m long with a depth ranging from 1 m deep on both ends to 1.5 m deep in the center and a total volume of approximately 53,000 liters. It has a dual waterfall feature, an in-pool vacuum unit, and stairs on one end. Any substance when placed into the pool will eventually be transmuted into sterile water which will remain sterile even after being removed from SCP-242 and introduced to a non-sterile environment. A sample taken from SCP-242 and poured into a container of water that had been tinted with red food coloring did not mix, but rather stayed together as a non-miscible bubble.",
+    "link": "http://scp-wiki.wikidot.com/scp-242"
+  },
+  {
+    "title": "SCP-243",
+    "class": "Safe",
+    "name": "Animation",
+    "description": "SCP-243 is a mass of small dry-cell batteries, all fused at their negative terminals into an ellipsoid approximately 30 cm long by 10 cm diameter. The arrangement is semi-fluid: the batteries may be rearranged by applying gentle pressure, though it is far more difficult to remove them from the central cylinder. SCP-243's unusual properties manifest when an Eligible Group of objects is brought into its active zone, an area of indeterminate shape extending no more than 7.3 m or less than 2.5 m from the center of the item. The active zone's precise extent and shape change from minute to minute. An Eligible Group consists of 5 or more identical or nearly-identical inanimate objects: \"nearly-identical\" items are those that a casual observer cannot easily distinguish based on attributes other than overall color.",
+    "link": "http://scp-wiki.wikidot.com/scp-243"
+  },
+  {
+    "title": "SCP-244",
+    "class": "Euclid",
+    "name": "Ice Fog Jar",
+    "description": "SCP-244-1 is a Tunisian-style earthenware jar, made of common ceramics mixed with traces of [DATA EXPUNGED] and decorated with silver filigree. The inside of SCP-244-1 always has an internal temperature of -37℃ and a 125% humidity, regardless of external conditions; persons handling SCP-244-1 invariably describe it as cold to the touch. When SCP-244-1 is uncapped, condensed water vapor will flow from its mouth. The rate at which the vapor emanates increases if SCP-244-1 is left lying on its side or suspended upside-down. This vapor is identical in composition to ice fog, with a temperature of -37℃ and 125% humidity as it exits SCP-244-1. Over time, this fog will disperse through whatever area SCP-244-1 is in, lowering ambient temperatures and raising humidity levels proportionally. In any space where SCP-244-1 has changed the environmental temperature and humidity to -37℃ and a 125% humidity, there is a chance of encountering SCP-244-2, directly proportional to the amount of time that the area has been fogged over.",
+    "link": "http://scp-wiki.wikidot.com/scp-244"
+  },
+  {
+    "title": "SCP-245",
+    "class": "Safe",
+    "name": "SCP-RPG",
+    "description": "Please see SCP-245-1.zip for information relating to SCP-245.",
+    "link": "http://scp-wiki.wikidot.com/scp-245"
   }
 ]
