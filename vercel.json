@@ -1,5 +1,10 @@
 {
     "version": 2,
     "builds": [{ "src": "server.js", "use": "@now/node-server" }],
-    "rewrites": [{ "source": "/scp/(.*)", "destination": "/scp" }]
+    "routes": [
+        {
+          "src": "/api/(.*)",
+          "dest": "./server.js"
+        }
+      ]
   }
