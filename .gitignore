@@ -117,3 +117,6 @@ dist
 
 archivos.zip
 loop.bat
+add_to_json.js
+db/
+bulk_insert.js
