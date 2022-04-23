@@ -1,6 +1,5 @@
 require('dotenv').config();
-const encodedKey = process.env.KEY;
-const fs = require('fs');
+
 const { Pool } = require('pg');
 
 
@@ -11,27 +10,14 @@ const pool = new Pool({
       }
   });
 
-const getAllSCPs =  async (req, res) => {
-    if(!req.headers.authorization){
-        return res.json({"error": "Not Authorized"});
-     }
-     else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
-        return res.json({"error": "Not Authorized"});
-     }
+const getAllSCPs =  async (_req, res) => {
         const data = await pool.query('SELECT item_number, object_class, series, name, description, link FROM SCP ORDER BY item_number ASC');
         let result = data.rows;
         return res.json(result);
      
 }
 
-const getSCP = async (req, res) => {
-    if(!req.headers.authorization){
-        return res.json({"error": "Not Authorized"});
-     }
-     else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
-        return res.json({"error": "Not Authorized"});
-     }
-                 
+const getSCP = async (req, res) => {      
         const data = await pool.query('SELECT item_number, object_class, series, name, description, link FROM SCP WHERE item_number = $1', ['SCP-'+req.params.number])
         let result = data.rows;
         if(data.rows.length > 0){
@@ -44,14 +30,7 @@ const getSCP = async (req, res) => {
     
 }
 
-const getRandomSCP = async (req, res) => {
-    if(!req.headers.authorization){
-        return res.json({"error": "Not Authorized"});
-     }
-     else if(Buffer.from(req.headers.authorization.split(' ')[1]).toString('base64') != encodedKey){
-        return res.json({"error": "Not Authorized"});
-     }
-        
+const getRandomSCP = async (_req, res) => {
         const data = await pool.query('SELECT item_number, object_class, series, name, description, link FROM SCP ORDER BY RANDOM() LIMIT 1');
         const result = data.rows;
         
@@ -59,7 +38,7 @@ const getRandomSCP = async (req, res) => {
     
 }
 
-const get404 = (req, res) => {
+const get404 = (_req, res) => {
     return res.status(404).json({"error": 'Resource was not found. Please check that you have put a correct query.'});
 }
 

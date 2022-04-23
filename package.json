@@ -10,8 +10,10 @@
   "author": "Felipe Ramírez",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "generate-api-key": "^1.0.0",
     "helmet": "^4.5.0",
     "pg": "^8.6.0",
     "readline-sync": "^1.4.10"

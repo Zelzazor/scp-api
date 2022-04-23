@@ -4,6 +4,7 @@ require('dotenv').config()
 
 const port = process.env.PORT
 const SCPRoutes = require('./routes/scp')
+const AuthRoutes = require('./routes/auth')
 
 const app = express()
 
@@ -12,7 +13,9 @@ const app = express()
 app.use(express.json())
 app.use(express.urlencoded({extended: false}))
 app.use(helmet())
+app.use(AuthRoutes)
 app.use(SCPRoutes)
+
 
 
 
